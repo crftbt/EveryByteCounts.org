@@ -1,5 +1,3 @@
-# [OpenSourced.Me](https://opensourced.me/)
-
 ## Desktop Benchmark
 
 |Desktop Environment                              |Window Manager  |Display Manager                |OS                                     |Size          |Desktop RAM Usage          |Desktop Reboot Time|Desktop CPU Usage|Repository  |Wikipedia         |Latest Release|Language                                                                           |
