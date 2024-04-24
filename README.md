@@ -24,3 +24,6 @@
 |                                                 |                |                               |❌ Microsoft Windows 10                 |❌ 32.7G       |❌ 2.3 Gigabytes            |❌ 53 Seconds       |4%               |            |                  |              |                                                                                   |
 
 ## [FullStackOpenSource.com](https://fullstackopensource.com/)
+
+#### Note
+What options are there to monetize and provide this research information in a sustainable way?
