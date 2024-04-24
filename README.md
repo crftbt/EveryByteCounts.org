@@ -1,6 +1,6 @@
 ## Desktop Benchmark
 
-|Desktop Environment                              |Window Manager  |Display Manager                |OS                                     |Size          |Desktop RAM Usage          |Desktop Reboot Time|Desktop CPU Usage|Repository  |Wikipedia         |Latest Release|Language                                                                           |
+|Desktop Environment                              |Window Manager  |Display Manager                |OS                                     |Size          |RAM Usage          |Reboot Time|CPU Usage|Repository  |Wikipedia         |Latest Release|Language                                                                           |
 |-------------------------------------------------|----------------|-------------------------------|---------------------------------------|--------------|---------------------------|-------------------|-----------------|------------|------------------|--------------|-----------------------------------------------------------------------------------|
 |-                                                |-               |-                              |NixOS 23.11.6418.                      |✔️ 2.5G       |✔️ 110 Megabytes           |✔️ 6 Seconds       |✔️ 0.00, 0.00, 0.00|https://github.com/NixOS/nixpkgs|https://en.wikipedia.org/wiki/NixOS|2023.11.6418. |Nix 95.9%, Shell 1.9%, Python 1.2%, Perl 0.3%, C 0.2%, Common Lisp 0.1%, Other 0.4%|
 |XTerm 388                                        |                |lightdm 1.32.0                 |NixOS 23.11.6418.                      |✔️ 4.6G       |✔️ 150 Megabytes           |✔️ 6 Seconds       |✔️ 0.00, 0.00, 0.00|https://invisible-mirror.net/archives/xterm/|https://en.wikipedia.org/wiki/Xterm|2024.02.19 390|                                                                                   |
@@ -20,6 +20,8 @@
 |Cinnamon 5.8.4                                   |Mutter Muffin 5.8.1|lightdm 1.32.0                 |NixOS 23.11.6418.                      |❌ 7.7G        |❌ 581 Megabytes            |❌ 15 Seconds       |❌ 1.07, 0.26, 0.08|https://github.com/linuxmint/cinnamon|https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)|2024.01.04 6.0.4|JavaScript 41.2%, C 39.5%, Python 17.9%, CSS 0.9%, Meson 0.4%, Shell 0.1%          |
 |Cinnamon 6.0.4                                   |Mutter Muffin 6.0.1|lightdm 1.32.0                 |NixOS 24.05pre614481.                  |❌ 7.6G        |❌ 621 Megabytes            |11 Seconds         |❌ 0.78, 0.18, 0.06|https://github.com/linuxmint/cinnamon|https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)|2024.01.04 6.0.4|JavaScript 41.2%, C 39.5%, Python 17.9%, CSS 0.9%, Meson 0.4%, Shell 0.1%          |
 |                                                 |                |                               |❌ Microsoft Windows 10                 |❌ 32.7G       |❌ 2.3 Gigabytes            |❌ 53 Seconds       |4%               |            |                  |              |                                                                                   |
+
+All tests were performed with AMD 6800H 1vCPU, and 4GB RAM.
 
 ## [FullStackOpenSource.com](https://fullstackopensource.com/)
 
