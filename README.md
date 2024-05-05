@@ -26,7 +26,7 @@
 |Plasma 5.27.10                       |KWin 5.27.10                       |sddm 0.20.0-r3	             |Alpine 3.19           |🟠 533MB    |🔴 1.28, 0.30, 0.10|🔵 2.2GB    |🟠 17 Seconds|
 |GNOME 45.5                           |(Wayland) Mutter 45.5              |gdm 45.0.1                  |NixOS 23.11.6418      |🟠 567MB    |0.21, 0.05, 0.02   |6.0G        |11 Seconds   |
 |Cinnamon 5.8.4                       |(X11) Mutter Muffin 5.8.1          |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11.6418      |🔴 574MB    |🔴 1.20, 0.29, 0.10|🔴 7.0G     |🟠 17 Seconds|
-|Gnome 45.3                           |Mutter 45.3                        |gdm 45.0.1                  |Alpine 3.19           |🔴 684MB    |0.27, 0.06, 0.02   |✔️ 1.8G     |🔴 21 Seconds|
+|Gnome 45.3                           |Mutter 45.3                        |gdm 45.0.1                  |Alpine 3.19           |🔴 684MB    |0.27, 0.06, 0.02   |🟢 1.8G     |🔴 21 Seconds|
 |                                     |                                   |                            |❌ Microsoft Windows 10|❌ 2.3GB     |0.04               |❌ 32.7G     |❌ 53 Seconds |
 |                                     |                                   |                            |❌ Microsoft Windows 11|❌ 2.7GB     |0.04               |❌ 40.0G     |❌ 57 Seconds |
 
