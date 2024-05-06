@@ -8,8 +8,8 @@
 |-                                    |i3 4.23                            |-                           |✔️ Alpine 3.19        |🟢 117MB    |✔️ 0.00, 0.00, 0.00|✔️ 569M     |🟠 14 Seconds|
 |-                                    |(X11) XTerm 388                    |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11.6418      |🟢 150MB    |✔️ 0.00, 0.00, 0.00|4.2G        |✔️ 6 Seconds |
 |-                                    |(X11) i3 4.23                      |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11.6418      |🟢 154MB    |✔️ 0.00, 0.00, 0.00|4.2G        |✔️ 6 Seconds |
-|-                                    |❌ Openbox 3.6.1 2015.07.01         |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11.6418      |🟢 155MB    |🔵 0.07, 0.02, 0.00|🔵 3.2G     |🔵 8 Seconds |
-|LXQt 1.4.0                           |❌ Openbox 3.6.1 2015.07.01         |sddm 0.20.0-r3              |✔️ Alpine 3.19        |🟢 158MB    |✔️ 0.00, 0.00, 0.00|✔️ 801M     |10 Seconds   |
+|-                                    |❌ (X11) Openbox 3.6.1 2015.07.01   |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11.6418      |🟢 155MB    |🔵 0.07, 0.02, 0.00|🔵 3.2G     |🔵 8 Seconds |
+|LXQt 1.4.0                           |❌ (X11) Openbox 3.6.1 2015.07.01   |sddm 0.20.0-r3              |✔️ Alpine 3.19        |🟢 158MB    |✔️ 0.00, 0.00, 0.00|✔️ 801M     |10 Seconds   |
 |-                                    |(X11) Enlightenment Tiling 0.25.4  |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11.6418      |🔵 205MB    |🔵 0.07, 0.02, 0.00|5.4G        |🔵 8 Seconds |
 |-                                    |(X11) Enlightenment Computer 0.25.4|🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11.6418      |🔵 211MB    |0.13, 0.03, 0.01   |5.4G        |🔵 9 Seconds |
 |MATE 1.26.1                          |Metacity Marco 1.26.2              |🟠 LightDM 1.32.0 2022.07.17|✔️ Alpine 3.19        |🔵 218MB    |✔️ 0.00, 0.00, 0.00|🟢 1.3G     |🟠 14 Seconds|
@@ -26,7 +26,7 @@
 |Plasma 5.27.10                       |KWin 5.27.10                       |sddm 0.20.0-r3	             |Alpine 3.19           |🟠 533MB    |🔴 1.28, 0.30, 0.10|🔵 2.2GB    |🟠 17 Seconds|
 |GNOME 45.5                           |(Wayland) Mutter 45.5              |gdm 45.0.1                  |NixOS 23.11.6418      |🟠 567MB    |0.21, 0.05, 0.02   |6.0G        |11 Seconds   |
 |Cinnamon 5.8.4                       |(X11) Mutter Muffin 5.8.1          |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11.6418      |🔴 574MB    |🔴 1.20, 0.29, 0.10|🔴 7.0G     |🟠 17 Seconds|
-|Gnome 45.3                           |Mutter 45.3                        |gdm 45.0.1                  |Alpine 3.19           |🔴 684MB    |0.27, 0.06, 0.02   |🟢 1.8G     |🔴 21 Seconds|
+|Gnome 45.3                           |(Wayland) Mutter 45.3              |gdm 45.0.1                  |Alpine 3.19           |🔴 684MB    |0.27, 0.06, 0.02   |🟢 1.8G     |🔴 21 Seconds|
 |                                     |                                   |                            |❌ Microsoft Windows 10|❌ 2.3GB     |0.04               |❌ 32.7G     |❌ 53 Seconds |
 |                                     |                                   |                            |❌ Microsoft Windows 11|❌ 2.7GB     |0.04               |❌ 40.0G     |❌ 57 Seconds |
 
