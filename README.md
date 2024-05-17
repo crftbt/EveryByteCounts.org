@@ -38,9 +38,14 @@
 |GNOME 45.5 2024.03.16 11GB      |Wayland Mutter 45.5 2024.03.16                  |GDM 45.0.1 2023.09.14       |NixOS 23.11                 |🟠 567MB    |🟠 0.39, 0.10, 0.03|🟠 6.1G     |🟠 13 Seconds|
 |Cinnamon 5.8.4 2023.07.07 15GB  |X11 Mutter Muffin 5.8.1 2023.07.07              |GDM 45.0.1 2023.09.14       |NixOS 23.11                 |🟠 579MB    |🟠 0.94, 0.22, 0.07|🔴 7.3G     |🟠 13 Seconds|
 |Gnome 45.3 2024.01.06           |Wayland Mutter 45.3 2024.01.06                  |GDM 45.0.1 2023.09.14       |Alpine 3.19 2023.12         |🔴 684MB    |0.27, 0.06, 0.02   |🟢 1.8G     |🔴 21 Seconds|
-|🟡 Gnome 42.9 2023.03.19 20GB   |🟡 X11 Mutter 42.9 2023.03.19                   |🔴 GDM 42.0 2022.03.21      |🔴 Pop!_OS 22.04 LTS        |🔴 990MB    |🔴 2.51, 0.63, 0.21|🔴 7.0G     |🔴 26 Seconds|
+|🟡 Gnome 42.9 2023.03.19 20GB   |🟡 X11 Mutter 42.9 2023.03.19                   |🟠 GDM 42.0 2022.03.21      |🔴 Pop!_OS 22.04 LTS        |🔴 990MB    |🔴 2.51, 0.63, 0.21|🔴 7.0G     |🔴 26 Seconds|
 |                                |Desktop Window Manager                          |                            |❌ Windows 10 2015           |❌ 2.3GB     |0.04               |❌ 32.7G     |❌ 53 Seconds |
 |                                |Desktop Window Manager                          |                            |❌ Windows 11 2021           |❌ 2.7GB     |0.04               |❌ 40.0G     |❌ 57 Seconds |
+
+🟡 More than 1 year since release.
+🟠 More than 2 years since release.
+🔴 More than 3 years since release.
+❌ 1,000 years before Stallman.
 
 All tests were performed with AMD 6800H 1vCPU, and 4GB RAM.
 
