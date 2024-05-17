@@ -14,10 +14,10 @@
 |-                             |X11 IceWM 3.4.4 2023.11.02           |🟡 sddm 0.20.0 2023.01.23   |NixOS 23.11                 |🟢 153MB    |🔵 0.13, 0.03, 0.01|🔵 3.3G     |🟢 7 Seconds |
 |-                             |X11 XTerm 388 2023.10.22             |🟡 sddm 0.20.0 2023.01.23   |NixOS 23.11                 |🟢 155MB    |✔️ 0.00, 0.00, 0.00|🔵 3.3G     |🟢 6 Seconds |
 |-                             |🔴 X11 spectrwm 3.4.1 2020.01.25     |🟡 sddm 0.20.0-r3 2023.01.23|NixOS 23.11                 |🟢 159MB    |✔️ 0.00, 0.00, 0.00|🔵 3.3G     |🟢 7 Seconds |
-|                              |X11 FVWM3 1.0.8 2023.09.04           |🟡 sddm 0.20.0-r3 2023.01.23|NixOS 23.11                 |🟢 160MB    |🟢 0.07, 0.02, 0.00|🔵 3.3G     |🔵 9 Seconds |
+|-                             |X11 FVWM3 1.0.8 2023.09.04           |🟡 sddm 0.20.0-r3 2023.01.23|NixOS 23.11                 |🟢 160MB    |🟢 0.07, 0.02, 0.00|🔵 3.3G     |🔵 9 Seconds |
 |-                             |X11 Window Maker 0.96.0 2023.08.05   |🟡 sddm 0.20.0-r3 2023.01.23|NixOS 23.11                 |🟢 161MB    |✔️ 0.00, 0.00, 0.00|🔵 3.3G     |🟢 6 Seconds |
 |LXQt 1.4.0                    |🟡 X11 JWM 2.4.3 2022.10.22          |🟡 sddm 0.20.0-r3 2023.01.23|✔️ Alpine 3.19 2023.12      |🟢 169MB    |✔️ 0.00, 0.00, 0.00|✔️ 795.3M   |12 Seconds   |
-|-                             |X11 Qtile 0.23.0                     |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11                 |🟢 180MB    |🟢 0.07, 0.02, 0.00|🔵 3.2G     |🟢 7 Seconds |
+|-                             |X11 Qtile 0.23.0 2023.09.24          |🟡 sddm 0.20.0-r3 2023.01.23|NixOS 23.11                 |🟢 181MB    |🟢 0.07, 0.02, 0.00|🔵 3.4G     |🟢 7 Seconds |
 |LXQt 1.4.0                    |X11 PekWM 0.3.0                      |🟡 sddm 0.20.0-r3 2023.01.23|✔️ Alpine 3.19 2023.12      |🟢 187MB    |✔️ 0.00, 0.00, 0.00|796.3M      |11 Seconds   |
 |-                             |X11 Enlightenment Tiling 0.25.4      |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11                 |🔵 205MB    |🟢 0.07, 0.02, 0.00|5.4G        |🔵 8 Seconds |
 |-                             |X11 Enlightenment Computer 0.25.4    |🟠 LightDM 1.32.0 2022.07.17|NixOS 23.11                 |🔵 211MB    |🔵 0.13, 0.03, 0.01|5.4G        |🔵 9 Seconds |
@@ -43,6 +43,23 @@
 |                              |Desktop Window Manager               |                            |❌ Windows 11 2021           |❌ 2.7GB     |0.04               |❌ 40.0G     |❌ 57 Seconds |
 
 All tests were performed with AMD 6800H 1vCPU, and 4GB RAM.
+
+
+## Window Manager Keybinds
+
+|Launch Terminal               |Keybinds                             |
+|------------------------------|-------------------------------------|
+|FVWM3                         |Left Click                           |
+|i3                            |Super + Enter                        |
+|IceWM                         |Ctrl + Alt + T                       |
+|JWM                           |Left Click JWM Panel                 |
+|LeftWM                        |Super + Shift + Enter                |
+|PekWM                         |Super + E                            |
+|Qtile                         |Super + Enter                        |
+|SpectrWM                      |Alt + Shift + Enter                  |
+|Window Maker                  |Right Click                          |
+|xmonad                        |Alt + Shift + Enter                  |
+
 
 ## [FullStackOpenSource.com](https://fullstackopensource.com/)
 
