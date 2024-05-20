@@ -1,4 +1,4 @@
-## Desktop Benchmark
+## Desktop Benchmark Comparison
 
 |Desktop Environment             |Window Manager                                  |Display Manager             |Operating System            |Memory Usage|Processor Usage    |Size on Disk|Reboot Time  |
 |--------------------------------|------------------------------------------------|----------------------------|----------------------------|------------|-------------------|------------|-------------|
