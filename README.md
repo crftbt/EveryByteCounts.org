@@ -45,7 +45,7 @@
 🟡 More than 1 year since release.
 🟠 More than 2 years since release.
 🔴 More than 3 years since release.
-❌ 1,000 years before Stallman Peak.
+❌ 1,000 years before Stallman's Peak.
 
 All tests were performed with AMD 6800H 1vCPU, and 4GB RAM.
 
