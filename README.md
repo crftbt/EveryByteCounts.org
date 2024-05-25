@@ -49,9 +49,9 @@
 
 All tests were performed with AMD 6800H 1vCPU, and 4GB RAM.
 
-## Window Manager Keybinds
+## Window Manager Terminal Launch Keybinds
 
-|Launch Terminal|Keybinds             |
+|Window Manager |Keybind             |
 |---------------|---------------------|
 |FVWM3          |Left Click           |
 |i3             |Super + Enter        |
