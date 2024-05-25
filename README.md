@@ -3,6 +3,7 @@
 |Desktop Environment        |Window Manager                                  |Display Manager             |Operating System      |Memory Usage|Processor Usage    |Size on Disk|Reboot Time  |
 |---------------------------|------------------------------------------------|----------------------------|----------------------|------------|-------------------|------------|-------------|
 |-                          |-                                               |-                           |✔️ Alpine 3.20 2024.05|✔️ 85MB     |✔️ 0.00, 0.00, 0.00|✔️ 347M     |🔵 8 Seconds |
+|-                          |Wayland Sway 1.9 2024.02.24                     |-                           |✔️ Alpine 3.20 2024.05|✔️ 99MB     |✔️ 0.00, 0.00, 0.00|✔️ 744M     |🟡 15 Seconds|
 |-                          |-                                               |-                           |NixOS 23.11           |🟢 111MB    |✔️ 0.00, 0.00, 0.00|🔵 2.4G     |🟢 6 Seconds |
 |-                          |🟡 X11 PeKWM 0.3.0 2023.01.23                   |🟡 sddm 0.20.0 2023.01.23   |NixOS 23.11           |🟢 144MB    |✔️ 0.00, 0.00, 0.00|3.3G        |🟢 7 Seconds |
 |-                          |🟡 X11 xmonad 0.17.2 2023.04.02                 |🟡 sddm 0.20.0 2023.01.23   |NixOS 23.11           |🟢 144MB    |✔️ 0.00, 0.00, 0.00|🟡 5.9G     |🟢 7 Seconds |
@@ -30,10 +31,10 @@
 |🟡 Xfce 4.18.3 2023.05.29  |🟡 X11 Xfwm4 4.18.0 2022.12.15                  |sddm 0.21.0-r2 2024.02.26   |Alpine 3.20 2024.05   |🟡 423MB    |✔️ 0.00, 0.00, 0.00|🟢 1.2G     |12 Seconds   |
 |Plasma 5.27.11 2024.03.26  |X11 KWin 5.27.11 2024.03.26                     |🟡 sddm 0.20.0 2023.01.23   |NixOS 23.11           |🟡 497MB    |🔴 1.41, 0.34, 0.11|🟠 6.8G     |🔴 23 Seconds|
 |Pantheon 7.1.1? 2023.08.21 |X11 Mutter Gala 7.1.3 2023.11.09                |GDM 45.0.1 2023.09.14       |NixOS 23.11           |🟠 504MB    |🔵 0.14, 0.03, 0.01|🟠 6.2G     |🟡 14 Seconds|
-|COSMIC 7c5d544 on 315532800|Wayland Cosmic Session / Smithay X WM           |Greetd 0.9.0                |NixOS 24.05pre        |🟠 505MB    |🟠 0.39, 0.10, 0.03|3.9G        |11 Seconds   |
+|Cosmic 7c5d544 on 315532800|Wayland Cosmic Session / Smithay X WM           |Greetd 0.9.0                |NixOS 24.05pre        |🟠 505MB    |🟠 0.39, 0.10, 0.03|3.9G        |11 Seconds   |
 |Budgie 10.8.2 2023.10.18   |X11 Mutter Budgie 10.8.2 2023.10.18             |GDM 45.0.1 2023.09.14       |NixOS 23.11           |🟠 510MB    |🟢 0.07, 0.02, 0.00|🟠 6.7G     |11 Seconds   |
 |Gnome 46.1 2024.04.21      |Wayland Mutter 46.1 2024.04.19                  |GDM 46.0 2024.03.18         |Alpine 3.20 2024.05   |🟠 556MB    |🟠 0.48, 0.11, 0.03|🟢 1.8G     |🟠 19 Seconds|
-|GNOME 45.5 2024.03.16      |Wayland Mutter 45.5 2024.03.16                  |GDM 45.0.1 2023.09.14       |NixOS 23.11           |🟠 567MB    |🟠 0.39, 0.10, 0.03|🟠 6.1G     |🟡 13 Seconds|
+|Gnome 45.5 2024.03.16      |Wayland Mutter 45.5 2024.03.16                  |GDM 45.0.1 2023.09.14       |NixOS 23.11           |🟠 567MB    |🟠 0.39, 0.10, 0.03|🟠 6.1G     |🟡 13 Seconds|
 |Plasma 6.0.4 2024.04.16    |Wayland KWin 6.0.4 2024.04.16                   |sddm 0.21.0-r2 2024.02.26   |Alpine 3.20 2024.05   |🟠 578MB    |🟠 0.88, 0.20, 0.06|🔵 2.6G     |🟠 16 Seconds|
 |Cinnamon 5.8.4 2023.07.07  |X11 Mutter Muffin 5.8.1 2023.07.07              |GDM 45.0.1 2023.09.14       |NixOS 23.11           |🟠 579MB    |🟠 0.94, 0.22, 0.07|🔴 7.3G     |🟡 13 Seconds|
 |🟡 Gnome 42.9 2023.03.19   |🟡 X11 Mutter 42.9 2023.03.19                   |🟠 GDM 42.0 2022.03.21      |🟠 Pop!_OS 22.04 LTS  |🔴 990MB    |🔴 2.51, 0.63, 0.21|🔴 7.0G     |🔴 26 Seconds|
