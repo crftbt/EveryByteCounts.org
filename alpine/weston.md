@@ -4,14 +4,14 @@
 2. ```doas rc-update add seatd```
 3. ```doas adduser $USER seat```
 4. ```doas setup-devd udev```
-5. ~/.profile add:
-```
-if [ -z "$XDG_RUNTIME_DIR" ]; then
+5. ```
+   cat >> ~/.profile <<EOF
+   if [ -z "$XDG_RUNTIME_DIR" ]; then
 	XDG_RUNTIME_DIR="/tmp/$(id -u)-runtime-dir"
 
 	mkdir -pm 0700 "$XDG_RUNTIME_DIR"
 	export XDG_RUNTIME_DIR
-fi
-```
+   fi
+   ```
 6. ```reboot```
-7. Start weston with ```weston```
+7. ```weston```
