@@ -67,6 +67,11 @@ All tests were performed with AMD 6800H 1vCPU, and 4GB RAM.
 |Window Maker               |Right Click                                     |
 |xmonad                     |Alt + Shift + Enter                             |
 
+## Install Instructions
+* [Labwc on Alpine](/alpine/labwc.md)
+* [Weston on Alpine](/alpine/weston.md)
+
+
 ## [FullStackOpenSource.com](https://fullstackopensource.com/)
 
 #### Note
