@@ -1,6 +1,6 @@
 # Steps to install Weston on Alpine 3.20
 
-1. ```doas apk add weston weston-backend-drm seatd mesa-dri-gallium weston-shell-desktop weston-terminal font-dejavu```
+1. ```doas apk add weston weston-backend-drm seatd weston-backend-wayland weston-shell-desktop weston-terminal font-dejavu```
 2. ```doas rc-update add seatd```
 3. ```doas adduser $USER seat```
 4. ```doas setup-devd udev```
