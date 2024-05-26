@@ -3,7 +3,8 @@
 1. ```doas apk add weston weston-backend-drm seatd mesa-dri-gallium weston-shell-desktop weston-terminal font-dejavu```
 2. ```doas rc-update add seatd```
 3. ```doas adduser $USER seat```
-4. ~/.profile add:
+4. ```doas setup-devd udev```
+5. ~/.profile add:
 ```
 if [ -z "$XDG_RUNTIME_DIR" ]; then
 	XDG_RUNTIME_DIR="/tmp/$(id -u)-runtime-dir"
@@ -12,5 +13,5 @@ if [ -z "$XDG_RUNTIME_DIR" ]; then
 	export XDG_RUNTIME_DIR
 fi
 ```
-5. ```reboot```
-6. Start weston with ```weston```
+6. ```reboot```
+7. Start weston with ```weston```
