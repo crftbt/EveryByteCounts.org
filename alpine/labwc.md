@@ -16,6 +16,7 @@ if [ -z "$XDG_RUNTIME_DIR" ]; then
 fi
 ```
 10. ```reboot```
+11. Start with ```labwc```
 
 ## Optional
 #### To auto start labwc from tty add to ~/.profile
