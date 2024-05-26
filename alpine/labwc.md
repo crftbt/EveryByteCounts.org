@@ -6,17 +6,18 @@
 4. ```doas adduser $USER seat```
 5. ```mkdir -p ~/.config/labwc```
 6. ```wget https://raw.githubusercontent.com/labwc/labwc/master/docs/rc.xml -O ~/.config/labwc/rc.xml```
-7. ~/.profile add:
-```
-if [ -z "$XDG_RUNTIME_DIR" ]; then
+7. ```
+   cat >> ~/.profile <<EOF
+   if [ -z "$XDG_RUNTIME_DIR" ]; then
 	XDG_RUNTIME_DIR="/tmp/$(id -u)-runtime-dir"
 
 	mkdir -pm 0700 "$XDG_RUNTIME_DIR"
 	export XDG_RUNTIME_DIR
-fi
-```
+   fi
+   EOF
+   ```
 8. ```reboot```
-9. Start with ```labwc```
+9. ```labwc```
 
 ## Optional
 #### To auto start labwc from tty add to ~/.profile
