@@ -50,6 +50,9 @@
 
 All tests were performed with AMD 6800H 1vCPU, and 4GB RAM.
 
+<noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+
 ## Window Manager Terminal Launch Keybinds
 
 |Window Manager             |Keybind                                         |
