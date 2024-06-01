@@ -29,7 +29,7 @@
 |Gnome 46.2 2024.05.25    |Wayland Mutter 46.2 2024.05.25              |GDM 46.0 2024.03.18      |NixOS 24.05           |🟠 561MB    |🔵 0.14, 0.03, 0.01|🟠 6.2G     |🟡 13 Seconds|
 |Plasma 6.0.4 2024.04.16  |Wayland KWin 6.0.4 2024.04.16               |sddm 0.21.0-r2 2024.02.26|Alpine 3.20 2024.05   |🟠 578MB    |🟠 0.88, 0.20, 0.06|🔵 2.6G     |🟠 16 Seconds|
 |Cinnamon 6.0.4 2024.01.04|X11 Mutter Muffin 6.0.1 2023.12.28          |* sddm 0.21.0 2024.02.26 |NixOS 24.05           |🔴 620MB    |🔴 1.05, 0.24, 0.08|🔴 7.1G     |12 Seconds   |
-|Cosmic 2024-05-30        |Wayland Cosmic-session 2024-05-28           |Greetd 0.10.0 2024.03.06 |NixOS 24.05           |🔴 676MB    |🟠 0.59, 0.14, 0.05|4.3G        |12 Seconds   |
+|* Cosmic 2024-05-30      |Wayland Cosmic-session 2024-05-28           |Greetd 0.10.0 2024.03.06 |NixOS 24.05           |🔴 676MB    |🟠 0.59, 0.14, 0.05|4.3G        |12 Seconds   |
 |Plasma 6.0.5 2024.05.21  |Wayland KWin 6.0.5 2024.05.21               |sddm 0.21.0 2024.02.26   |NixOS 24.05           |🔴 723MB    |🔴 1.84, 0.47, 0.16|🔴 7.6G     |🔴 28 Seconds|
 |🟡 Gnome 42.9 2023.03.19 |🟡 X11 Mutter 42.9 2023.03.19               |🟠 GDM 42.0 2022.03.21   |🟠 Pop!_OS 22.04 LTS  |🔴 990MB    |🔴 2.51, 0.63, 0.21|🔴 7.0G     |🔴 26 Seconds|
 |                         |Desktop Window Manager                      |                         |❌ Windows 11 2021.10  |❌ 2.7GB     |0.04               |❌ 40.0G     |❌ 57 Seconds |
