@@ -34,7 +34,7 @@
 |🟡 Gnome 42.9 2023.03.19 |🟡 X11 Mutter 42.9 2023.03.19               |🟠 GDM 42.0 2022.03.21   |🟠 Pop!_OS 22.04 LTS  |🔴 990MB    |🔴 2.51, 0.63, 0.21|🔴 7.0G     |🔴 26 Seconds|
 |                         |Desktop Window Manager                      |                         |❌ Windows 11 2021.10  |❌ 2.7GB     |0.04               |❌ 40.0G     |❌ 57 Seconds |
 
-\* Not default option of distribution.<br>
+\* Non-default option of distribution.<br>
 🟡 More than 1 year since release.<br>
 🟠 More than 2 years since release.<br>
 🔴 More than 3 years since release.<br>
