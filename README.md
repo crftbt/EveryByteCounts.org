@@ -34,13 +34,16 @@
 |🟡 Gnome 42.9 2023.03.19 |🟡 X11 Mutter 42.9 2023.03.19               |🟠 GDM 42.0 2022.03.21   |🟠 Pop!_OS 22.04 LTS  |🔴 990MB    |🔴 2.51, 0.63, 0.21|🔴 7.0G     |🔴 26 Seconds|
 |                         |Desktop Window Manager                      |                         |❌ Windows 11 2021.10  |❌ 2.7GB     |0.04               |❌ 40.0G     |❌ 57 Seconds |
 
-* Not default option of distribution.
-🟡 More than 1 year since release.
-🟠 More than 2 years since release.
-🔴 More than 3 years since release.
+\* Not default option of distribution.<br>
+🟡 More than 1 year since release.<br>
+🟠 More than 2 years since release.<br>
+🔴 More than 3 years since release.<br>
 ❌ 1,000 years before Stallman's Peak.
 
-All tests were performed with AMD 6800H 1vCPU, and 4GB RAM.
+Hardware: 
+* AMD 6800H 1vCPU
+* 4GB LPDDR5 RAM
+* SK Hynix Platinum P41 M.2-2280 PCIe 4.0 X4 NVME SSD
 
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
