@@ -1,4 +1,4 @@
-# Steps to run Labwc on Alpine 3.20.0
+# Steps to install Labwc on Alpine 3.20.0
 
 1. ```setup-devd udev```
 2. ```doas apk add font-dejavu seatd labwc foot```
@@ -8,10 +8,10 @@
 6. ```wget https://raw.githubusercontent.com/labwc/labwc/master/docs/rc.xml -O ~/.config/labwc/rc.xml```
 7. ```
    cat >> ~/.profile <<EOF
-   if [ -z "$XDG_RUNTIME_DIR" ]; then
-	XDG_RUNTIME_DIR="/tmp/$(id -u)-runtime-dir"
+   if [ -z "\$XDG_RUNTIME_DIR" ]; then
+	XDG_RUNTIME_DIR="/tmp/\$(id -u)-runtime-dir"
 
-	mkdir -pm 0700 "$XDG_RUNTIME_DIR"
+	mkdir -pm 0700 "\$XDG_RUNTIME_DIR"
 	export XDG_RUNTIME_DIR
    fi
    EOF
