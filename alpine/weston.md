@@ -15,7 +15,7 @@
 #### To auto login to sddm
 1. ```doas mkdir /etc/sddm.conf.d/```
 2. ```
-   cat >> /etc/sddm.conf.d/autologin.conf <<EOF
+   doas cat >> /etc/sddm.conf.d/autologin.conf <<EOF
    [Autologin]
    User=john
    EOF
