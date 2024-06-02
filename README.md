@@ -69,8 +69,9 @@ Hardware:
 |xmonad                     |Alt + Shift + Enter                             |
 
 ## Install Instructions
-* [Labwc on Alpine](/alpine/labwc.md)
-* [Weston on Alpine](/alpine/weston.md)
+* [Labwc with SDDM on Alpine](/alpine/labwc.md)
+* [Sway with SDDM on Alpine](/alpine/sway.md)
+* [Weston with SDDM on Alpine](/alpine/weston.md)
 
 
 ## [FullStackOpenSource.com](https://fullstackopensource.com/)
