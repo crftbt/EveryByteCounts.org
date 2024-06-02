@@ -15,4 +15,10 @@
 
 ## Optional
 #### To auto login to sddm
-https://wiki.archlinux.org/title/SDDM#Autologin
+1. ```doas mkdir /etc/sddm.conf.d/```
+2. ```
+   cat >> /etc/sddm.conf.d/autologin.conf <<EOF
+   [Autologin]
+   User=john
+   EOF
+   ```
