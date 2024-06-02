@@ -1,4 +1,4 @@
-# Steps to install Sway with Greetd on Alpine 3.20.0
+# Steps to install Sway with Greetd + GTKGreet on Alpine 3.20.0
 
 1. ```doas apk -U upgrade```
 2. ```doas setup-xorg-base```
