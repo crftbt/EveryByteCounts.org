@@ -71,6 +71,7 @@ Hardware:
 
 ## Install Instructions
 * [Labwc with SDDM on Alpine](/alpine/labwc.md)
+* [Sway with greetd on Alpine](/alpine/sway-greetd.md)
 * [Sway with SDDM on Alpine](/alpine/sway.md)
 * [Weston with SDDM on Alpine](/alpine/weston.md)
 
