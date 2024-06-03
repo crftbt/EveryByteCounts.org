@@ -51,8 +51,7 @@ Hardware:
 * 4GB LPDDR5 RAM
 * SK Hynix Platinum P41 M.2-2280 PCIe 4.0 X4 NVME SSD
 
-<noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
+Donate: https://liberapay.com/craft/donate <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ## Window Manager Terminal Launch Keybinds
 
