@@ -51,7 +51,21 @@ Hardware:
 * 4GB LPDDR5 RAM
 * SK Hynix Platinum P41 M.2-2280 PCIe 4.0 X4 NVME SSD
 
+
 [Donate](https://liberapay.com/craft/donate) 
+
+
+### What is a Display Manager?
+A Display Manager is the login screen that is used to launch a Window Manager.
+
+### What is a Window Manager?
+A Window Manager is a way to show (multiple) graphical applications on a screen.
+
+### What is a Desktop Environment?
+A Desktop Environment is applications bundled for a Window Manager (An Application Launcher, Panel, etc).
+
+### Is it possible to show multiple terminals on a screen without a Window Manager?
+Yes, with a Terminal Multiplexer like termux or screen.
 
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
