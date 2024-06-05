@@ -60,7 +60,7 @@ Hardware:
 A Display Manager is the login screen that is used to launch a Window Manager.
 
 ### What is a Window Manager?
-A Window Manager is a way to show (multiple) graphical applications on a screen.
+A Window Manager is a way to show graphical applications on a screen.
 
 ### What is a Desktop Environment?
 A Desktop Environment is applications bundled for a Window Manager (An Application Launcher, Panel, etc).
