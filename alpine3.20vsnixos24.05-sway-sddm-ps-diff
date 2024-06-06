@@ -1,0 +1,41 @@
+COMMAND          RSS	|	COMMAND           RSS
+
+Xorg              54m	|	agetty           3072
+acpid             768	|	bash             6400
+crond             896	|
+dbus-daemon      1024	|	dbus-daemon      3584
+dbus-daemon      1152	|	dbus-daemon      7168
+dbus-run-sessio   512	|
+elogind          2176	|
+foot              16m	|	foot            15956
+getty             768	|
+getty             768	|
+getty             768	|
+getty             768	|
+getty             768	|
+getty             768	|
+getty             768	|
+grep              768	|	grep             2560
+init              768	|	NetworkManager  20608
+logger            640	|	nsncd            5888
+		             	|	polkitd          7424
+ps                768	|	ps               3584
+sddm              20m	|	sddm            19328
+sddm-helper       16m	|	sddm-helper     18816
+seatd             512	|	(sd-pam)         2948
+sh                768	|	sh               3584
+sh               1024	|
+sleep             768	|	sleep            4224
+sort              768	|	sort             4096
+supervise-daemo   384	|
+supervise-daemo   384	|
+sway              57m	|	sway            65976
+swaybar          9472	|	swaybar         13568
+						          |	swaybg           7964
+syslogd           896	|	systemd         12160
+udevd            2464	|	systemd         13936
+udhcpc            640	|	systemd-journal  7808
+						          >	systemd-logind   8960
+						          >	systemd-oomd     7808
+						          >	systemd-timesyn  8576
+						          >	systemd-udevd    9728
