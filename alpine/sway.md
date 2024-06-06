@@ -3,8 +3,8 @@
 1. ```doas apk -U upgrade```
 2. ```doas setup-xorg-base```
 3. ```doas setup-wayland-base```
-4. ```doas apk add font-dejavu foot polkit-elogind seatd sway sddm```
-5.````mkdir -p ~/.config/sway/```
+4. ```doas apk add font-dejavu foot polkit-elogind sway sddm```
+5. ```mkdir -p ~/.config/sway/```
 8. ```cp /etc/sway/config ~/.config/sway/config```
 9. ```doas rc-service dbus start```
 10. ```doas rc-update add dbus```
