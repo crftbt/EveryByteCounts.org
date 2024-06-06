@@ -18,7 +18,7 @@ getty             768	|
 grep              768	|	grep             2560
 init              768	|	NetworkManager  20608
 logger            640	|	nsncd            5888
-		             	|	polkitd          7424
+			|	polkitd          7424
 ps                768	|	ps               3584
 sddm              20m	|	sddm            19328
 sddm-helper       16m	|	sddm-helper     18816
@@ -31,11 +31,11 @@ supervise-daemo   384	|
 supervise-daemo   384	|
 sway              57m	|	sway            65976
 swaybar          9472	|	swaybar         13568
-						          |	swaybg           7964
+			|	swaybg           7964
 syslogd           896	|	systemd         12160
 udevd            2464	|	systemd         13936
 udhcpc            640	|	systemd-journal  7808
-						          >	systemd-logind   8960
-						          >	systemd-oomd     7808
-						          >	systemd-timesyn  8576
-						          >	systemd-udevd    9728
+			>	systemd-logind   8960
+			>	systemd-oomd     7808
+			>	systemd-timesyn  8576
+			>	systemd-udevd    9728
