@@ -73,10 +73,10 @@ Yes, with a Terminal Multiplexer like termux or screen.
 ### [Window Manager Keyboard Shortcuts](/keyboardshortcuts.md)
 
 ## Install Instructions
-* [Labwc with SDDM on Alpine](/alpine/labwc.md)
+* [Labwc with SDDM on Alpine](/alpine/labwc-sddm.md)
 * [Sway with greetd + GTKGreet on Alpine](/alpine/sway-greetd-gtkgreet.md)
-* [Sway with SDDM on Alpine](/alpine/sway.md)
-* [Weston with SDDM on Alpine](/alpine/weston.md)
+* [Sway with SDDM on Alpine](/alpine/sway-sddm.md)
+* [Weston with SDDM on Alpine](/alpine/weston-sddm.md)
 
 
 ## [FullStackOpenSource.com](https://fullstackopensource.com/)
