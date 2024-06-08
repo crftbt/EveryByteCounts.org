@@ -70,7 +70,7 @@ Yes, with a Terminal Multiplexer like termux or screen.
 
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-### [Window Manager Keybinds](/keybinds.md)
+### [Window Manager Keyboard Shortcuts](/keyboardshortcuts.md)
 
 ## Install Instructions
 * [Labwc with SDDM on Alpine](/alpine/labwc.md)
