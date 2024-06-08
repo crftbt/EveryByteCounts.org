@@ -1,6 +1,6 @@
 ## Desktop Audit and Benchmark Comparison
 
-|Desktop_Environment   |Window_Manager                           |Display_Manager                                     |Operating_System         |Memory  |Load Average|Disk Usage|Reboot (Seconds)|
+|Desktop_Environment   |Window_Manager                           |Display_Manager                                     |Operating_System         |Memory_Usage  |Load Average|Disk_Usage|Reboot (Seconds)|
 |----------------------|-----------------------------------------|----------------------------------------------------|-------------------------|-------:|-----------:|---------:|---------------:|
 |-                     |-                                        |-                                                   |✔️ Alpine 3.20 24.05     |  ✔️ 85M|     ✔️ 0.00|   ✔️ 347M|            🔵 8|
 |-                     |Wayland Labwc 0.7.2 24.05                |-                                                   |✔️ Alpine 3.20 24.05     |  ✔️ 96M|     ✔️ 0.00|   ✔️ 415M|              10|
