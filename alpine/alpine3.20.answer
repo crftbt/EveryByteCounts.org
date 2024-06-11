@@ -1,12 +1,12 @@
 KEYMAPOPTS="us us"
-HOSTNAMEOPTS=alpine3.20
+HOSTNAMEOPTS=alpine320
 DEVDOPTS=mdev
 INTERFACESOPTS="auto lo
 iface lo inet loopback
 
 auto eth0
 iface eth0 inet dhcp
-hostname alpine3.20
+hostname alpine320
 "
 # Search domain of example.com, Google public nameserver
 # DNSOPTS="-d example.com 8.8.8.8"
