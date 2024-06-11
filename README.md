@@ -21,7 +21,7 @@
 |-                   |X11 Qtile 0.25.0 24.04                 |* SDDM 0.21.0 24.02                             |NixOS 24.05         |    🟢 179|        0.20|          3479|      🟢 7s|
 |-                   |X11 Enlightenment 0.26.0 23.12  |* SDDM 0.21.0 24.02                             |NixOS 24.05         |    🔵 211|        0.27|       🟡 5786|      🔵 8s|
 |LXQt 1.4.0 23.11    |* X11 KWin 5.27.10-r0 23.12            |SDDM 0.21.0-r2 24.02                            |✔️ Alpine 3.20 24.05|    🔵 243|     ✔️ 0.00|       🟢 1122|        10s|
-|-                   |-                                      |-                                               |🟡 Debian 12.5 23.06|    🔵 276|     ✔️ 0.00|       🟢 1684|      ✔️ 5s|
+|-                   |-                                      |-                                               |🟨 Debian 12.5 23.06|    🔵 276|     ✔️ 0.00|       🟢 1684|      ✔️ 5s|
 |MATE 1.28.0 24.02   |X11 Metacity Marco 1.28.1 24.02        |* SDDM 0.21.0 24.02                             |NixOS 24.05         |       332|     🔵 0.13|       🟠 6119|      🔵 9s|
 |Pantheon 7.1.1 23.08|X11 Mutter Gala 7.1.3 23.11            |* SDDM 0.21.0 24.02                             |NixOS 24.05         |    🟠 503|        0.29|       🟠 6476|        12s|
 |Budgie 10.9.1 24.02 |X11 Mutter Budgie 10.8.2 23.10         |* SDDM 0.21.0 24.02                             |NixOS 24.05         |    🟠 531|     🟠 0.52|       🟠 6499|        12s|
@@ -29,15 +29,15 @@
 |Plasma 6.0.4 24.04  |Wayland KWin 6.0.4 24.04               |SDDM 0.21.0-r2 24.02                            |✔️ Alpine 3.20 24.05|    🟠 578|     🟠 0.88|       🔵 2618|     🟠 16s|
 |Cinnamon 6.0.4 24.01|X11 Mutter Muffin 6.0.1 23.12          |* SDDM 0.21.0 24.02                             |NixOS 24.05         |    🔴 620|     🔴 1.05|       🔴 7206|        12s|
 |* Cosmic 24-05      |Wayland Cosmic-session 24-05           |Greetd 0.10.0 24.03                             |NixOS 24.05         |    🔴 676|     🟠 0.59|          4323|        12s|
-|🟡 Gnome 42.9 23.03 |🟡 X11 Mutter 42.9 23.03               |🟠 GDM 42.0 22.03                               |🟠 Pop!_OS 22.04 LTS|    🔴 990|     🔴 2.51|       🔴 7219|     🔴 26s|
+|🟨 Gnome 42.9 23.03 |🟨 X11 Mutter 42.9 23.03               |🟧 GDM 42.0 22.03                               |🟧 Pop!_OS 22.04 LTS|    🔴 990|     🔴 2.51|       🔴 7219|     🔴 26s|
 |Gnome 46.0 24.03    |Wayland Mutter 46.0 24.03              |GDM 46.0 24.03                                  |Ubuntu 24.04 LTS    |   🔴 1038|     🟠 0.74|       🔴 9154|     🟠 19s|
 |                    |Desktop Window Manager                 |                                                |❌ Windows 11 21.10  |    ❌ 2916|            |       ❌ 25720|      ❌ 57s|
 |                    |                                       |                                                |❌ MacOS 13.6.7 22.10|    ❌ 3252|    ❌ 126.37|       🔴 8912|      ❌ 47s|
 
 \* Non-default option of distribution.<br>
-🟡 More than 1 year since release.<br>
-🟠 More than 2 years since release.<br>
-🔴 More than 3 years since release.<br>
+🟨 More than 1 year since release.<br>
+🟧 More than 2 years since release.<br>
+🟥 More than 3 years since release.<br>
 ❌ 1,000 years before Stallman's Peak.
 
 Hardware: 
