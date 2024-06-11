@@ -1,0 +1,27 @@
+KEYMAPOPTS="us us"
+HOSTNAMEOPTS=alpine3.20
+DEVDOPTS=mdev
+INTERFACESOPTS="auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet dhcp
+hostname alpine3.20
+"
+# Search domain of example.com, Google public nameserver
+# DNSOPTS="-d example.com 8.8.8.8"
+TIMEZONEOPTS="UTC"
+PROXYOPTS=none
+APKREPOSOPTS="-1"
+USEROPTS="a -a -u -g audio,video,netdev juser"
+USERSSHKEY="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGysIErJOFDKKn33uTxkVMffNIfzpPxqjOPLxmyQCfgi"
+#USERSSHKEY="https://example.com/juser.keys"
+SSHDOPTS=openssh
+ROOTSSHKEY="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGysIErJOFDKKn33uTxkVMffNIfzpPxqjOPLxmyQCfgi"
+#ROOTSSHKEY="https://example.com/juser.keys"
+NTPOPTS="openntpd"
+DISKOPTS="-m sys /dev/vda"
+#LBUOPTS="LABEL=APKOVL"
+LBUOPTS=none
+#APKCACHEOPTS="/media/LABEL=APKOVL/cache"
+APKCACHEOPTS=none
