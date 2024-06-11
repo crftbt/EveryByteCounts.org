@@ -1,4 +1,4 @@
-## Desktop Operating System Audit and Benchmark Comparison
+## Desktop Operating System Performance Comparison
 
 |Desktop Environment |Window Manager                         |Display Manager                                 |Operating System    |Memory (M)|Load Average|Disk Usage (M)|Reboot Time|
 |--------------------|---------------------------------------|------------------------------------------------|--------------------|---------:|-----------:|-------------:|----------:|
