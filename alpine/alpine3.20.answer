@@ -13,7 +13,7 @@ hostname alpine320
 TIMEZONEOPTS="UTC"
 PROXYOPTS=none
 APKREPOSOPTS="-1"
-USEROPTS="a -a -u -g audio,video,netdev juser"
+USEROPTS="-a -u -g audio,video,netdev a"
 USERSSHKEY="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGysIErJOFDKKn33uTxkVMffNIfzpPxqjOPLxmyQCfgi"
 #USERSSHKEY="https://example.com/juser.keys"
 SSHDOPTS=openssh
