@@ -1,6 +1,6 @@
 ## Desktop Operating System Performance Comparison
 
-|Desktop Environment |Window Manager                 |Display Manager                                 |Operating System    |Memory (M)|Load Average|Disk Usage (M)|Reboot Time|
+|Desktop Environment |Window Manager                 |Display Manager                                 |Operating System    |Memory Usage (M)|Load Average|Disk Usage (M)|Reboot Time|
 |--------------------|-------------------------------|------------------------------------------------|--------------------|---------:|-----------:|-------------:|----------:|
 |-                   |-                              |-                                               |Alpine 3.20 24.05   |     ✔️ 85|     ✔️ 0.00|        ✔️ 347|      🔵 8s|
 |-                   |Wayland Labwc 0.7.2 24.05      |-                                               |Alpine 3.20 24.05   |     ✔️ 96|     ✔️ 0.00|        ✔️ 415|        10s|
