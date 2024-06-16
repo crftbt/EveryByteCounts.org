@@ -1,5 +1,36 @@
 ## Desktop Operating System Performance Comparison
 
+This document provides a comparative analysis of various desktop environments, window managers, and display managers across different operating systems. It presents quantitative metrics such as memory usage, load average, disk usage, and reboot time to help make informed decisions when choosing a desktop environment.
+
+### What is a Desktop Environment?
+
+A Desktop Environment is a suite of applications bundled together with a Window Manager to provide a cohesive graphical user interface (GUI) experience. It typically includes an application launcher, panel, file manager, and other utilities.
+
+### What is a Window Manager?
+
+A Window Manager is responsible for managing the placement and appearance of graphical application windows on the screen. It handles tasks such as opening, closing, resizing, and moving windows, as well as providing keyboard shortcuts and other window management features.
+
+### What is a Display Manager?
+
+A Display Manager is the graphical login screen that allows users to authenticate and launch a specific desktop environment or window manager.
+
+## Metrics Explained
+
+- **Memory Usage**: The amount of RAM consumed by all currently running software.
+- **Load Average**: A measure of the system's CPU load, averaged over a specific time period. A lower value indicates better performance.
+- **Disk Usage**: The amount of disk space occupied by the installed software.
+- **Reboot Time**: The time taken for the system to reboot from an open terminal, to an open terminal.
+
+## Hardware Specifications
+
+The following tests were conducted on a system with the following specifications:
+
+- CPU: AMD 6800H 1vCPU
+- RAM: 4GB LPDDR5
+- Storage: SK Hynix Platinum P41 M.2-2280 PCIe 4.0 X4 NVME SSD
+
+## Desktop Environment Comparison
+
 |Desktop Environment |Window Manager                 |Display Manager                                 |Operating System         |Memory Usage (M)|Load Average|Disk Usage (M)|Reboot Time|
 |--------------------|-------------------------------|------------------------------------------------|-------------------------|---------------:|-----------:|-------------:|----------:|
 |-                   |-                              |-                                               |Alpine 3.20 24.05        |           ✔️ 85|     ✔️ 0.00|        ✔️ 347|      🔵 8s|
@@ -43,31 +74,16 @@
 |                    |Desktop Window Manager         |                                                |❌ Windows 11 21.10       |          ❌ 2916|            |       ❌ 25720|      ❌ 57s|
 |                    |                               |                                                |❌ MacOS 13.6.7 22.10     |          ❌ 3252|    ❌ 126.37|       🔴 8912|      ❌ 47s|
 
-\* Non-default option of distribution.<br>
-🟨 More than 1 year since release.<br>
-🟧 More than 2 years since release.<br>
-🟥 More than 3 years since release.<br>
-❌ 1,000 years before Stallman's Peak.
-
-Hardware: 
-* AMD 6800H 1vCPU
-* 4GB LPDDR5 RAM
-* SK Hynix Platinum P41 M.2-2280 PCIe 4.0 X4 NVME SSD
-
+**Legend:**
+- \* Non-default option of distribution.<br>
+- 🟨 More than 1 year since release.<br>
+- 🟧 More than 2 years since release.<br>
+- 🟥 More than 3 years since release.<br>
+- ❌ 1,000 years before Stallman's Peak.
 
 [Donate](https://liberapay.com/craft/donate) 
 
-
-### What is a Display Manager?
-A Display Manager is the login screen that is used to launch a Window Manager.
-
-### What is a Window Manager?
-A Window Manager is a way to show graphical applications on a screen.
-
-### What is a Desktop Environment?
-A Desktop Environment is applications bundled for a Window Manager (An Application Launcher, Panel, etc).
-
-### Is it possible to show multiple terminals on a screen without a Window Manager?
+#### Is it possible to show multiple terminals on a screen without a Window Manager?
 Yes, with a Terminal Multiplexer like termux or screen.
 
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
