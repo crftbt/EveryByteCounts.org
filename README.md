@@ -25,9 +25,9 @@ A Display Manager is the graphical login screen that allows users to authenticat
 
 The following tests were conducted on a system with the following specifications:
 
-- CPU: AMD 6800H 1vCPU
-- RAM: 4GB LPDDR5
-- Storage: SK Hynix Platinum P41 M.2-2280 PCIe 4.0 X4 NVME SSD
+- **CPU**: AMD 6800H 1vCPU
+- **RAM**: 4GB LPDDR5
+- **Storage**: SK Hynix Platinum P41 M.2-2280 PCIe 4.0 X4 NVME SSD
 
 ## Desktop Environment Comparison
 
