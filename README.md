@@ -67,12 +67,12 @@ The following tests were conducted on a system with the following specifications
 |Cinnamon 6.0.4 24.01|X11 Mutter Muffin 6.0.1 23.12  |❌ LightDM 1.30.0 19.05                          |Mint 21.3 24.01                 |          🔴 741|     🔴 1.28|      🔴 11141|     🔴 15s|
 |🟨 Xfce 4.18 22.12  |🟨 X11 Xfwm4 4.18.0 22.12      |❌ LightDM 1.26.0 18.03                          |MX 23.3 24.05                   |          🔴 876|     🟠 0.61|       🔴 8734|     🔴 19s|
 |🟨 Gnome 42.9 23.03 |🟨 X11 Mutter 42.9 23.03       |🟧 GDM 42.0 22.03                               |🟧 Pop!_OS 22.04 LTS            |          🔴 990|     🔴 2.51|       🔴 7219|     🔴 26s|
-|Plasma 6.0.5 24.05  |X11 KWin 6.0.5-2 24.05         |SDDM 0.21.0-4 24.02                             |Manjaro 24.0 24.05              |         🔴 1011|     🔴 1.56|       🔴 7552|     🔴 26s|
-|Gnome 46.0 24.03    |Wayland Mutter 46.0 24.03      |GDM 46.0 24.03                                  |Ubuntu 24.04 LTS                |         🔴 1038|     🟠 0.74|       🔴 9154|     🔴 19s|
-|Plasma 6.0.5 24.05  |Wayland KWin 6.0.5-2           |SDDM 0.21.0-4 24.02                             |EndeavourOS Gemini 24.04        |         🔴 1102|     🔴 1.47|       🔴 6323|     🔴 23s|
-|Gnome 46.2 24.05    |Wayland Mutter 46.2 24.05      |GDM 46.2 24.05                                  |Fedora Workstation 40 1.14 24.04|         🔴 1285|     🔴 2.63|          3866|     🔴 24s|
-|Plasma 6.0.5 24.05  |X11 KWin 6.0.5-1.1 24.05       |SDDM 0.21.0-3.1 24.02                           |openSUSE Tumbleweed 24.06       |         🔴 1400|     🟠 0.99|       🟠 6103|     🔴 22s|
-|MATE 1.28.0 24.02   |X11 Metacity Marco 1.28.1 24.02|❌ LightDM 1.30.0 19.05                          |OpenIndiana Hipster 24.04       |         🔴 1832|     🔴 2.17|       🔴 7071|     🔴 36s|
+|Plasma 6.0.5 24.05  |X11 KWin 6.0.5-2 24.05         |SDDM 0.21.0-4 24.02                             |Manjaro 24.0 24.05              |          ❌ 1011|     🔴 1.56|       🔴 7552|     🔴 26s|
+|Gnome 46.0 24.03    |Wayland Mutter 46.0 24.03      |GDM 46.0 24.03                                  |Ubuntu 24.04 LTS                |          ❌ 1038|     🟠 0.74|       🔴 9154|     🔴 19s|
+|Plasma 6.0.5 24.05  |Wayland KWin 6.0.5-2           |SDDM 0.21.0-4 24.02                             |EndeavourOS Gemini 24.04        |          ❌ 1102|     🔴 1.47|       🔴 6323|     🔴 23s|
+|Gnome 46.2 24.05    |Wayland Mutter 46.2 24.05      |GDM 46.2 24.05                                  |Fedora Workstation 40 1.14 24.04|          ❌ 1285|     🔴 2.63|          3866|     🔴 24s|
+|Plasma 6.0.5 24.05  |X11 KWin 6.0.5-1.1 24.05       |SDDM 0.21.0-3.1 24.02                           |openSUSE Tumbleweed 24.06       |          ❌ 1400|     🟠 0.99|       🟠 6103|     🔴 22s|
+|MATE 1.28.0 24.02   |X11 Metacity Marco 1.28.1 24.02|❌ LightDM 1.30.0 19.05                          |OpenIndiana Hipster 24.04       |          ❌ 1832|     🔴 2.17|       🔴 7071|     🔴 36s|
 |                    |Desktop Window Manager         |                                                |❌ Windows 11 21.10              |          ❌ 2916|            |       ❌ 25720|      ❌ 57s|
 |                    |                               |                                                |❌ MacOS 13.6.7 22.10            |          ❌ 3252|    ❌ 126.37|       🔴 8912|      ❌ 47s|
 
