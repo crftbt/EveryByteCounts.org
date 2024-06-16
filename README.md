@@ -84,4 +84,4 @@ Yes, with a Terminal Multiplexer like termux or screen.
 #### Note
 What options are there to monetize and provide this research information in a sustainable way? 
 
-Are you hiring? Send an email to craft @ no third party recruiters . com :)
+Are you hiring? Send an electronic mail to craft at no third party recruiters doto com :)
