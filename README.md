@@ -54,6 +54,7 @@ The following tests were conducted on a system with the following specifications
 |-                   |X11 Qtile 0.25.0 24.04         |* SDDM 0.21.0 24.02                             |NixOS 24.05                     |          🟢 179|        0.20|          3479|      🟢 7s|
 |-                   |X11 Enlightenment 0.26.0 23.12 |* SDDM 0.21.0 24.02                             |NixOS 24.05                     |          🔵 211|        0.27|       🟡 5786|      🔵 8s|
 |LXQt 1.4.0 23.11    |* X11 KWin 5.27.10-r0 23.12    |SDDM 0.21.0-r2 24.02                            |Alpine 3.20 24.05               |          🔵 243|     ✔️ 0.00|       🟢 1122|        10s|
+|-                   |-                              |-                                               |FreeBSD 14.1 Release 24.05      |          🔵 258|     🔴 5.62|        ✔️ 985|     🔴 22s|
 |-                   |-                              |-                                               |🟨 Debian 12.5 23.06            |          🔵 276|     ✔️ 0.00|       🟢 1684|      ✔️ 5s|
 |MATE 1.28.0 24.02   |X11 Metacity Marco 1.28.1 24.02|* SDDM 0.21.0 24.02                             |NixOS 24.05                     |             332|     🔵 0.13|       🟠 6119|      🔵 9s|
 |-                   |-                              |-                                               |EndeavourOS Gemini 24.04        |             355|     ✔️ 0.00|       🟡 5587|      🟢 6s|
