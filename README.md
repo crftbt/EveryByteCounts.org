@@ -55,7 +55,7 @@ The following tests were conducted on a system with the following specifications
 |-                   |X11 Enlightenment 0.26.0 23.12 |* SDDM 0.21.0 24.02                             |NixOS 24.05                     |          🔵 211|        0.27|       🟡 5786|      🔵 8s|
 |LXQt 1.4.0 23.11    |* X11 KWin 5.27.10-r0 23.12    |SDDM 0.21.0-r2 24.02                            |Alpine 3.20 24.05               |          🔵 243|     ✔️ 0.00|       🟢 1122|        10s|
 |-                   |-                              |-                                               |FreeBSD 14.1 Release 24.05      |          🔵 258|     🔴 5.62|        ✔️ 985|     🔴 22s|
-|-                   |-                              |-                                               |🟨 Debian 12.5 23.06            |          🔵 276|     ✔️ 0.00|       🟢 1684|      ✔️ 5s|
+|-                   |-                              |-                                               |🟥 Debian 12.5 23.06            |          🔵 276|     ✔️ 0.00|       🟢 1684|      ✔️ 5s|
 |MATE 1.28.0 24.02   |X11 Metacity Marco 1.28.1 24.02|* SDDM 0.21.0 24.02                             |NixOS 24.05                     |             332|     🔵 0.13|       🟠 6119|      🔵 9s|
 |-                   |-                              |-                                               |EndeavourOS Gemini 24.04        |             355|     ✔️ 0.00|       🟡 5587|      🟢 6s|
 |-                   |X11 IceWM 3.4.5 23.12          |❌ slimski 1.5.0 21.01                           |antiX 23.1 24.02                |          🟡 444|     ✔️ 0.00|       🔴 7395|      🔵 9s|
@@ -66,8 +66,9 @@ The following tests were conducted on a system with the following specifications
 |Cinnamon 6.0.4 24.01|X11 Mutter Muffin 6.0.1 23.12  |* SDDM 0.21.0 24.02                             |NixOS 24.05                     |          🔴 620|     🔴 1.05|       🔴 7206|     🟡 12s|
 |* Cosmic 24-05      |Wayland Cosmic-session 24-05   |Greetd 0.10.0 24.03                             |NixOS 24.05                     |          🔴 676|     🟠 0.59|          4323|     🟡 12s|
 |Cinnamon 6.0.4 24.01|X11 Mutter Muffin 6.0.1 23.12  |❌ LightDM 1.30.0 19.05                          |Mint 21.3 24.01                 |          🔴 741|     🔴 1.28|      🔴 11141|     🔴 15s|
-|🟨 Xfce 4.18 22.12  |🟨 X11 Xfwm4 4.18.0 22.12      |❌ LightDM 1.26.0 18.03                          |MX 23.3 24.05                   |          🔴 876|     🟠 0.61|       🔴 8734|     🔴 19s|
-|🟨 Gnome 42.9 23.03 |🟨 X11 Mutter 42.9 23.03       |🟧 GDM 42.0 22.03                               |🟧 Pop!_OS 22.04 LTS            |          🔴 990|     🔴 2.51|       🔴 7219|     🔴 26s|
+|Gnome 43.9 23.09    |Wayland Mutter 43.8 23.08      |🟥 GDM 42.0 22.03                               |Zorin 17.1 Core 24.03           |          🔴 847|     🟠 0.81|       🔴 9074|     🔴 18s|
+|🟥 Xfce 4.18 22.12  |🟥 X11 Xfwm4 4.18.0 22.12      |❌ LightDM 1.26.0 18.03                          |MX 23.3 24.05                   |          🔴 876|     🟠 0.61|       🔴 8734|     🔴 19s|
+|🟥 Gnome 42.9 23.03 |🟥 X11 Mutter 42.9 23.03       |🟥 GDM 42.0 22.03                               |🟥 Pop!_OS 22.04 LTS            |          🔴 990|     🔴 2.51|       🔴 7219|     🔴 26s|
 |Plasma 6.0.5 24.05  |X11 KWin 6.0.5-2 24.05         |SDDM 0.21.0-4 24.02                             |Manjaro 24.0 24.05              |          ❌ 1011|     🔴 1.56|       🔴 7552|     🔴 26s|
 |Gnome 46.0 24.03    |Wayland Mutter 46.0 24.03      |GDM 46.0 24.03                                  |Ubuntu 24.04 LTS                |          ❌ 1038|     🟠 0.74|       🔴 9154|     🔴 19s|
 |Plasma 6.0.5 24.05  |Wayland KWin 6.0.5-2           |SDDM 0.21.0-4 24.02                             |EndeavourOS Gemini 24.04        |          ❌ 1102|     🔴 1.47|       🔴 6323|     🔴 23s|
@@ -78,10 +79,8 @@ The following tests were conducted on a system with the following specifications
 |                    |                               |                                                |❌ MacOS 13.6.7 22.10            |          ❌ 3252|    ❌ 126.37|       🔴 8912|      ❌ 47s|
 
 **Legend:**
-- \* Non-default option of distribution.<br>
-- 🟨 More than 1 year since release.<br>
-- 🟧 More than 2 years since release.<br>
-- 🟥 More than 3 years since release.<br>
+- \* Non-default option of distribution.
+- 🟥 More than 1 years since release.
 - ❌ 1,000 years before Stallman's Peak.
 
 [Donate](https://liberapay.com/craft/donate) 
