@@ -6,7 +6,7 @@
 4. ```doas apk add cage font-dejavu foot greetd greetd-gtkgreet seatd sway```
 5. ```doas rc-update add seatd```
 6. ```doas adduser $USER seat```
-7. ```doas adduser greatd seat```
+7. ```doas adduser greetd seat```
 8. ```echo 'command = "cage -s -- gtkgreet"' >> /etc/greetd/config.toml```
 9. ```echo "dbus-run-session -- sway" >> /etc/greetd/environments```
 10. ```mkdir -p ~/.config/sway/```
