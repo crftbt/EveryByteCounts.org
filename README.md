@@ -58,7 +58,7 @@ The following tests were conducted on a system with the following specifications
 |-                   |-                              |-                                               |🟥 Debian 12.5 23.06            |          🔵 276|     ✔️ 0.00|       🟢 1684|      ✔️ 5s|
 |MATE 1.28.0 24.02   |X11 Metacity Marco 1.28.1 24.02|* SDDM 0.21.0 24.02                             |NixOS 24.05                     |             332|     🔵 0.13|       🟠 6119|      🔵 9s|
 |-                   |-                              |-                                               |EndeavourOS Gemini 24.04        |             355|     ✔️ 0.00|       🟡 5587|      🟢 6s|
-|-                   |X11 IceWM 3.4.5 23.12          |🟥 slimski 1.5.0 21.01                          |antiX 23.1 24.02                |          🟡 444|     ✔️ 0.00|       🔴 7395|      🔵 9s|
+|-                   |X11 IceWM 3.4.5 23.12          |🟥 slimski 1.5.0 21.01                          |antiX Full 23.1 24.02           |          🟡 444|     ✔️ 0.00|       🔴 7395|      🔵 9s|
 |Pantheon 7.1.1 23.08|X11 Mutter Gala 7.1.3 23.11    |* SDDM 0.21.0 24.02                             |NixOS 24.05                     |          🟠 503|        0.29|       🟠 6476|     🟡 12s|
 |Budgie 10.9.1 24.02 |X11 Mutter Budgie 10.8.2 23.10 |* SDDM 0.21.0 24.02                             |NixOS 24.05                     |          🟠 531|     🟠 0.52|       🟠 6499|     🟡 12s|
 |Gnome 46.1 24.04    |Wayland Mutter 46.1 24.04      |GDM 46.0 24.03                                  |Alpine 3.20 24.05               |          🟠 556|     🟡 0.48|       🟢 1843|     🔴 19s|
