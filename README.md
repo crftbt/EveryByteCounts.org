@@ -66,6 +66,7 @@ The following tests were conducted on a system with the following specifications
 |Cinnamon 6.0.4 24.01|X11 Mutter Muffin 6.0.1 23.12  |* SDDM 0.21.0 24.02                             |NixOS 24.05                     |          🔴 620|     🔴 1.05|       🔴 7206|     🟡 12s|
 |* Cosmic 24-05      |Wayland Cosmic-session 24-05   |Greetd 0.10.0 24.03                             |NixOS 24.05                     |          🔴 676|     🟠 0.59|          4323|     🟡 12s|
 |Cinnamon 6.0.4 24.01|X11 Mutter Muffin 6.0.1 23.12  |🟥 LightDM 1.30.0 19.05                         |Mint 21.3 24.01                 |          🔴 741|     🔴 1.28|      🔴 11141|     🔴 15s|
+|🟥 Xfce 4.18 22.12  |🟥 X11 Xfwm4 4.18.0 22.12      |🟥 LightDM 1.32.0 22.07                         |Kali Linux 2024.2 24.06         |          🔴 822|        0.27|      🔴 13410|        10s|
 |Gnome 43.9 23.09    |Wayland Mutter 43.8 23.08      |🟥 GDM 42.0 22.03                               |Zorin 17.1 Core 24.03           |          🔴 847|     🟠 0.81|       🔴 9074|     🔴 18s|
 |🟥 Xfce 4.18 22.12  |🟥 X11 Xfwm4 4.18.0 22.12      |🟥 LightDM 1.26.0 18.03                         |MX 23.3 24.05                   |          🔴 876|     🟠 0.61|       🔴 8734|     🔴 19s|
 |🟥 Gnome 42.9 23.03 |🟥 X11 Mutter 42.9 23.03       |🟥 GDM 42.0 22.03                               |🟥 Pop!_OS 22.04 LTS            |          🔴 990|     🔴 2.51|       🔴 7219|     🔴 26s|
