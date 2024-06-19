@@ -1,0 +1,25 @@
+base_url = "https://d3c3nt.figbert.com"
+title = "d3c3nt :: FIGBERT"
+description = "A simple, clean, and flexible theme for personal sites."
+
+default_language = "en"
+generate_feed = true
+minify_html = true
+
+[markdown]
+  highlight_code = true
+  highlight_theme = "visual-studio-dark"
+  external_links_target_blank = true
+  external_links_no_follow = true
+  external_links_no_referrer = true
+  smart_punctuation = true
+
+[extra]
+  d3_nav = [
+    { name = "HOME", path = "/" },
+    { name = "POSTS", path = "/posts/" },
+    { name = "CONFIG", path = "/config/" },
+  ]
+  d3_icon = "/icon.png"
+  d3_twitter = "therealFIGBERT"
+  d3_author = "FIGBERT"
