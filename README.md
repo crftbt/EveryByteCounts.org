@@ -73,6 +73,7 @@ The following tests were conducted on a system with the following specifications
 |🟥 Gnome 42.9 23.03 |🟥 X11 Mutter 42.9 23.03       |🟥 GDM 42.0 22.03                               |🟥 Pop!_OS 22.04 LTS            |          🔴 990|     🔴 2.51|       🔴 7219|     🔴 26s|
 |Plasma 6.0.5 24.05  |X11 KWin 6.0.5-2 24.05         |SDDM 0.21.0-4 24.02                             |Manjaro 24.0 24.05              |          ❌ 1011|     🔴 1.56|       🔴 7552|     🔴 26s|
 |Gnome 46.0 24.03    |Wayland Mutter 46.0 24.03      |GDM 46.0 24.03                                  |Ubuntu 24.04 LTS                |          ❌ 1038|     🟠 0.74|       🔴 9154|     🔴 19s|
+|🟥 Gnome 40.10 22.03|🟥 Wayland Mutter 40.9 22.02   |🟥 GDM 40.1 21.07                               |AlmaLinux 9.4 24.05             |          ❌ 1080|     🟠 0.60|          4407|     🔴 18s|
 |Plasma 6.0.5 24.05  |Wayland KWin 6.0.5-2           |SDDM 0.21.0-4 24.02                             |EndeavourOS Gemini 24.04        |          ❌ 1102|     🔴 1.47|       🔴 6323|     🔴 23s|
 |Gnome 46.2 24.05    |Wayland Mutter 46.2 24.05      |GDM 46.2 24.05                                  |Fedora Workstation 40 1.14 24.04|          ❌ 1285|     🔴 2.63|          3866|     🔴 24s|
 |Plasma 6.0.5 24.05  |X11 KWin 6.0.5-1.1 24.05       |SDDM 0.21.0-3.1 24.02                           |openSUSE Tumbleweed 24.06       |          ❌ 1400|     🟠 0.99|       🟠 6103|     🔴 22s|
