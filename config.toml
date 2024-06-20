@@ -1,4 +1,3 @@
-# The URL the site will be built for
 base_url = "https://everybytecounts.org"
 
 # Whether to automatically compile all Sass files in the sass directory
