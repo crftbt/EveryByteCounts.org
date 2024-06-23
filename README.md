@@ -107,6 +107,6 @@ Yes, with a Terminal Multiplexer like termux or screen.
 ## [FullStackOpenSource.com](https://fullstackopensource.com/)
 
 #### Note
-What options are there to monetize and provide this research information in a sustainable way? 
+What options are there to monetize and provide the results of this research in a sustainable way? 
 
 Are you hiring or seeking a consultant? Send an electronic mail to craft at no third party recruiters period com :)
