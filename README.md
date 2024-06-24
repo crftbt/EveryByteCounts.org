@@ -61,6 +61,7 @@ The following tests were conducted on a system with the following specifications
 |-                      |-                               |-                                                  |EndeavourOS Gemini 24.04        |             355|     ✔️ 0.00|       🟡 5587|      🟢 6s|
 |-                      |🟧 X11 IceWM 3.4.5 23.12        |🟥 slimski 1.5.0 21.01                             |antiX Full 23.1 24.02           |          🟡 444|     ✔️ 0.00|       🔴 7395|      🔵 9s|
 |🟧 Pantheon 7.1.1 23.08|X11 Mutter Gala 7.1.3 23.11     |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |          🟠 503|        0.29|       🟠 6476|     🟡 12s|
+|Gnome-Mobile 45 24.06  |Wayland Mutter-Mobile 45 23.09  |GDM 46.0 24.03                                     |postmarketOS 24.06              |          🟠 530|     🔴 1.17|       🟢 1851|     🔴 14s|
 |Budgie 10.9.1 24.02    |X11 Mutter Budgie 0.9.3 23.08   |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |          🟠 531|     🟠 0.52|       🟠 6499|     🟡 12s|
 |🟧 Gnome 46.1 24.04    |🟧 Wayland Mutter 46.1 24.04    |🟧 GDM 46.0 24.03                                  |Alpine 3.20 24.05               |          🟠 556|     🟡 0.48|       🟢 1843|     🔴 19s|
 |🟧 Plasma 6.0.4 24.04  |🟧 Wayland KWin 6.0.4 24.04     |SDDM 0.21.0-r2 24.02                               |Alpine 3.20 24.05               |          🟠 578|     🟠 0.88|       🔵 2618|     🔴 16s|
