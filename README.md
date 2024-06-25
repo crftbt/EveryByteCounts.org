@@ -34,7 +34,7 @@ The following tests were conducted on a system with the following specifications
 
 |Desktop Environment        |Window Manager                   |Display Manager                                    |Operating System                |Memory Usage (M)|Load Average|Disk Usage (M)|Reboot Time|
 |---------------------------|---------------------------------|---------------------------------------------------|--------------------------------|---------------:|-----------:|-------------:|----------:|
-|-                          |-                                |-                                                  |postmarketOS v24.06             |           ✔️ 61|     🔴 1.33|        ✔️ 458|     🔴 57s|
+|-                          |-                                |-                                                  |postmarketOS 24.06              |           ✔️ 61|     🔴 1.33|        ✔️ 458|     🔴 57s|
 |-                          |-                                |-                                                  |Alpine 3.20 24.05               |           ✔️ 85|     ✔️ 0.00|        ✔️ 347|      🔵 8s|
 |-                          |Wayland Labwc 0.7.2 24.05        |-                                                  |Alpine 3.20 24.05               |           ✔️ 96|     ✔️ 0.00|        ✔️ 415|        10s|
 |-                          |Wayland Sway 1.9 24.02           |-                                                  |Alpine 3.20 24.05               |           ✔️ 97|     ✔️ 0.00|        ✔️ 413|        11s|
@@ -49,7 +49,7 @@ The following tests were conducted on a system with the following specifications
 |-                          |Wayland Labwc 0.7.2 24.05        |SDDM 0.21.0-r2 24.02                               |Alpine 3.20 24.05               |          🟢 121|     ✔️ 0.00|        ✔️ 732|        10s|
 |-                          |🟧 X11 IceWM 3.5.0 24.05         |SDDM 0.21.0-r2 24.02                               |Alpine 3.20 24.05               |          🟢 128|     ✔️ 0.00|        ✔️ 721|        10s|
 |-                          |🟧 Wayland River 0.3.1 24.05     |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |          🟢 147|     ✔️ 0.00|          3345|      🟢 6s|
-|Sxmo 1.16.3-r0 24.06       |Wayland Sway 1.9-r2 24.02        |tinydm 1.2.0-r0 23.12                              |postmarketOS v24.06             |          🟢 153|     🟡 0.46|       🟢 1152|     🔴 24s|
+|Sxmo 1.16.3-r0 24.06       |Wayland Sway 1.9-r2 24.02        |tinydm 1.2.0-r0 23.12                              |postmarketOS 24.06              |          🟢 153|     🟡 0.46|       🟢 1152|     🔴 24s|
 |-                          |X11 LeftWM 0.5.1 23.11           |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |          🟢 153|     🟢 0.08|          3416|      ✔️ 5s|
 |-                          |🟧 Wayland Weston 12.0.4 24.04   |SDDM 0.21.0-r2 24.02                               |Alpine 3.20 24.05               |          🟢 155|     ✔️ 0.00|        ✔️ 744|      🔵 9s|
 |-                          |🟧 X11 XTerm 390 24.02           |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |          🟢 156|     ✔️ 0.00|          3386|      🟢 7s|
@@ -64,7 +64,7 @@ The following tests were conducted on a system with the following specifications
 |-                          |-                                |-                                                  |EndeavourOS Gemini 24.04        |             355|     ✔️ 0.00|       🟡 5587|      🟢 6s|
 |-                          |🟧 X11 IceWM 3.4.5 23.12         |🟥 slimski 1.5.0 21.01                             |antiX Full 23.1 24.02           |          🟡 444|     ✔️ 0.00|       🔴 7395|      🔵 9s|
 |🟧 Pantheon 7.1.1 23.08    |X11 Mutter Gala 7.1.3 23.11      |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |          🟠 503|        0.29|       🟠 6476|     🟡 12s|
-|🟧 Gnome-Mobile 45.rc 24.06|🟧 Wayland Mutter-Mobile 45 23.09|🟧 GDM 46.0 24.03                                  |postmarketOS v24.06             |          🟠 530|     🔴 1.17|       🟢 1851|     🔴 14s|
+|🟧 Gnome-Mobile 45.rc 24.06|🟧 Wayland Mutter-Mobile 45 23.09|🟧 GDM 46.0 24.03                                  |postmarketOS 24.06              |          🟠 530|     🔴 1.17|       🟢 1851|     🔴 14s|
 |Budgie 10.9.1 24.02        |X11 Mutter Budgie 0.9.3 23.08    |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |          🟠 531|     🟠 0.52|       🟠 6499|     🟡 12s|
 |🟧 Gnome 46.1 24.04        |🟧 Wayland Mutter 46.1 24.04     |🟧 GDM 46.0 24.03                                  |Alpine 3.20 24.05               |          🟠 556|     🟡 0.48|       🟢 1843|     🔴 19s|
 |🟧 Plasma 6.0.4 24.04      |🟧 Wayland KWin 6.0.4 24.04      |SDDM 0.21.0-r2 24.02                               |Alpine 3.20 24.05               |          🟠 578|     🟠 0.88|       🔵 2618|     🔴 16s|
@@ -76,6 +76,7 @@ The following tests were conducted on a system with the following specifications
 |🟧 Gnome 43.9 23.09        |🟧 Wayland Mutter 43.8 23.08     |🟥 GDM 42.0 22.03                                  |Zorin 17.1 Core 24.03           |          🔴 847|     🟠 0.81|       🔴 9074|     🔴 18s|
 |🟥 Xfce 4.18 22.12         |🟥 X11 Xfwm4 4.18.0 22.12        |🟥 LightDM 1.30.0 19.05                            |Linux Lite 7.0 24.06            |          🔴 848|     🟠 0.89|      🔴 11842|     🔴 29s|
 |🟥 Xfce 4.18 22.12         |🟥 X11 Xfwm4 4.18.0 22.12        |🟥 LightDM 1.26.0 18.03                            |MX 23.3 24.05                   |          🔴 876|     🟠 0.61|       🔴 8734|     🔴 19s|
+|🟥 Mate 1.26.0 21.08       |🟥 X11 Metacity Marco 1.26.1 22.11|🟥 LightDM 1.26.0 18.03                            |Parrot OS 6.1 Home 24.06        |          🔴 923|     🟡 0.47|       🔴 7054|     🔴 20s|
 |🟥 Gnome 42.9 23.03        |🟥 X11 Mutter 42.9 23.03         |🟥 GDM 42.0 22.03                                  |🟥 Pop!_OS 22.04 LTS            |          🔴 990|     🔴 2.51|       🔴 7219|     🔴 26s|
 |🟧 Plasma 6.0.5 24.05      |🟧 X11 KWin 6.0.5-2 24.05        |SDDM 0.21.0-4 24.02                                |Manjaro 24.0 24.05              |          ❌ 1011|     🔴 1.56|       🔴 7552|     🔴 26s|
 |🟧 Gnome 46.0 24.03        |🟧 Wayland Mutter 46.0 24.03     |🟧 GDM 46.0 24.03                                  |Ubuntu 24.04 LTS                |          ❌ 1038|     🟠 0.74|       🔴 9154|     🔴 19s|
