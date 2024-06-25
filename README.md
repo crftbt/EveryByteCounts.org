@@ -94,7 +94,7 @@ The following tests were conducted on a system with the following specifications
 - 🟧 Newer version available.
 - 🟥 More than 1 years since release.
 
-[Donate](https://liberapay.com/craft/donate) 
+[Be Our Hero with a Donation](https://liberapay.com/craft/donate) 
 
 #### Is it possible to show multiple terminals on a screen without a Window Manager?
 Yes, with a Terminal Multiplexer like termux or screen.
