@@ -16,7 +16,7 @@ A Display Manager is the graphical login screen that allows users to authenticat
 
 ## Metrics Explained
 
-- **Timing**: All metrics are measured 10 seconds after autologin.
+- **Timing**: All metrics are measured 10 seconds after the environment has started.
 - **Memory Usage**: The amount of RAM consumed by all currently running software.
 - **Load Average**: A measure of the system's CPU load, averaged over a specific time period. A lower value indicates better performance.
 - **Disk Usage**: The amount of disk space occupied by the installed software.
