@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-Wikpedia:
+Wikpedia: 
 Latest Release Version and Date:
