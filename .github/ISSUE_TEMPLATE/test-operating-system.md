@@ -1,7 +1,7 @@
 ---
 name: Test Operating System
 about: Test OperatingSystem Version ReleaseDate
-title: ''
+title: Test OperatingSystem Version ReleaseDate
 labels: ''
 assignees: ''
 
