@@ -60,9 +60,9 @@ The following tests were conducted on a system with the following specifications
 |-                          |-                                     |-                                                  |FreeBSD 14.1 Release 24.05      |          🔵 258|      ❌ 5.62|        ✔️ 985|     🔴 22s|
 |-                          |-                                     |-                                                  |🟥 Debian 12.5 23.06            |          🔵 276|     ✔️ 0.00|       🟢 1684|      ✔️ 5s|
 |🟧 MATE 1.28.0 24.02       |X11 Metacity Marco 1.28.1 24.02       |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |             332|     🔵 0.13|       🟠 6119|      🔵 9s|
-|🟥 KDE 4.2.2 09.04         |🟥 X11 KWin 4.2.2 09.04               |🟥 KDM 4.2.2 09.04                                 |🟥 Hannah Montana Linux v2 09.06|             337|     ✔️ 0.00|       🔵 2534|     🔴 23s|
+|❌ KDE 4.2.2 09.04          |❌ X11 KWin 4.2.2 09.04                |❌ KDM 4.2.2 09.04                                  |❌ Hannah Montana Linux v2 09.06 |             337|     ✔️ 0.00|       🔵 2534|     🔴 23s|
 |-                          |-                                     |-                                                  |EndeavourOS Gemini 24.04        |             355|     ✔️ 0.00|       🟡 5587|      🟢 6s|
-|-                          |🟧 X11 IceWM 3.4.5 23.12              |🟥 slimski 1.5.0 21.01                             |antiX Full 23.1 24.02           |          🟡 444|     ✔️ 0.00|       🔴 7395|      🔵 9s|
+|-                          |🟧 X11 IceWM 3.4.5 23.12              |❌ slimski 1.5.0 21.01                              |antiX Full 23.1 24.02           |          🟡 444|     ✔️ 0.00|       🔴 7395|      🔵 9s|
 |Phosh 0.39.0 24.05         |Wayland Phoc 0.39.0-r0 24.04          |tinydm 1.2.0-r0 23.12                              |postmarketOS 24.06              |          🟡 467|     🔴 1.04|       🟢 1603|     🔴 15s|
 |🟧 Pantheon 7.1.1 23.08    |X11 Mutter Gala 7.1.3 23.11           |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |          🟠 503|        0.29|       🟠 6476|     🟡 12s|
 |🟧 Gnome-Mobile 45.rc 24.06|🟧 Wayland Mutter-Mobile 45 23.09     |🟧 GDM 46.0 24.03                                  |postmarketOS 24.06              |          🟠 530|     🔴 1.17|       🟢 1851|     🟠 14s|
@@ -70,26 +70,26 @@ The following tests were conducted on a system with the following specifications
 |🟧 Gnome 46.1 24.04        |🟧 Wayland Mutter 46.1 24.04          |🟧 GDM 46.0 24.03                                  |Alpine 3.20 24.05               |          🟠 556|     🟡 0.48|       🟢 1843|     🔴 19s|
 |🟧 Plasma 6.0.4 24.04      |🟧 Wayland KWin 6.0.4 24.04           |SDDM 0.21.0-r2 24.02                               |Alpine 3.20 24.05               |          🟠 578|     🟠 0.88|       🔵 2618|     🔴 16s|
 |🟧 Cinnamon 6.0.4 24.01    |🟧 X11 Mutter Muffin 6.0.1 23.12      |* SDDM 0.21.0 24.02                                |NixOS 24.05                     |          🔴 620|     🔴 1.05|       🔴 7206|     🟡 12s|
-|Budgie 10.9.2 24.06        |X11 Mutter Budgie Magpie 0.9.3-4 23.08|🟥 LightDM 1.32.0 22.07                            |Solus 4.5 24.01                 |          🔴 633|     🔴 1.70|       🔴 7586|     🔴 21s|
+|Budgie 10.9.2 24.06        |X11 Mutter Budgie Magpie 0.9.3-4 23.08|❌ LightDM 1.32.0 22.07                             |Solus 4.5 24.01                 |          🔴 633|     🔴 1.70|       🔴 7586|     🔴 21s|
 |* Cosmic 24-05             |* Wayland Cosmic-session 24-05        |🟧 greetd 0.10.0 24.03                             |NixOS 24.05                     |          🔴 676|     🟠 0.59|          4323|     🟡 12s|
-|🟥 LXQt 1.2.0 22.11        |🟥 Openbox 3.6.1 15.07                |🟥 LightDM 1.26.0 18.03                            |SparkyLinux 7.4 24.06           |          🔴 690|     🔴 1.66|       🟠 6417|     🔴 15s|
-|🟧 Cinnamon 6.0.4 24.01    |🟧 X11 Mutter Muffin 6.0.1 23.12      |🟥 LightDM 1.30.0 19.05                            |Mint 21.3 24.01                 |          🔴 741|     🔴 1.28|       ❌ 11141|     🔴 15s|
-|🟥 Xfce 4.18 22.12         |🟥 X11 Xfwm4 4.18.0 22.12             |🟥 LightDM 1.32.0 22.07                            |Kali Linux 2024.2 24.06         |          🔴 822|        0.27|       ❌ 13410|        10s|
-|🟧 Gnome 43.9 23.09        |🟧 Wayland Mutter 43.8 23.08          |🟥 GDM 42.0 22.03                                  |Zorin 17.1 Core 24.03           |          🔴 847|     🟠 0.81|       🔴 9074|     🔴 18s|
-|🟥 Xfce 4.18 22.12         |🟥 X11 Xfwm4 4.18.0 22.12             |🟥 LightDM 1.30.0 19.05                            |Linux Lite 7.0 24.06            |          🔴 848|     🟠 0.89|       ❌ 11842|     🔴 29s|
-|🟥 Xfce 4.18 22.12         |🟥 X11 Xfwm4 4.18.0 22.12             |🟥 LightDM 1.26.0 18.03                            |MX 23.3 24.05                   |          🔴 876|     🟠 0.61|       🔴 8734|     🔴 19s|
-|🟥 Mate 1.26.0 21.08       |🟥 X11 Metacity Marco 1.26.1 22.11    |🟥 LightDM 1.26.0 18.03                            |Parrot OS 6.1 Home 24.06        |          🔴 923|     🟡 0.47|       🔴 7054|     🔴 20s|
-|🟥 Plasma 5.27.5 23.05     |🟥 X11 KWin 5.27.5 23.05              |🟥 SDDM 0.19.0 20.11                               |Q4OS Desktop 5.4 23.11          |          🔴 963|     🔴 1.50|       🔴 7538|     🔴 29s|
-|🟥 Gnome 42.9 23.03        |🟥 X11 Mutter 42.9 23.03              |🟥 GDM 42.0 22.03                                  |🟥 Pop!_OS 22.04 LTS            |          🔴 990|      ❌ 2.51|       🔴 7219|     🔴 26s|
+|❌ LXQt 1.2.0 22.11         |❌ Openbox 3.6.1 15.07                 |❌ LightDM 1.26.0 18.03                             |SparkyLinux 7.4 24.06           |          🔴 690|     🔴 1.66|       🟠 6417|     🔴 15s|
+|🟧 Cinnamon 6.0.4 24.01    |🟧 X11 Mutter Muffin 6.0.1 23.12      |❌ LightDM 1.30.0 19.05                             |Mint 21.3 24.01                 |          🔴 741|     🔴 1.28|       ❌ 11141|     🔴 15s|
+|❌ Xfce 4.18 22.12          |❌ X11 Xfwm4 4.18.0 22.12              |❌ LightDM 1.32.0 22.07                             |Kali Linux 2024.2 24.06         |          🔴 822|        0.27|       ❌ 13410|        10s|
+|🟧 Gnome 43.9 23.09        |🟧 Wayland Mutter 43.8 23.08          |❌ GDM 42.0 22.03                                   |Zorin 17.1 Core 24.03           |          🔴 847|     🟠 0.81|       🔴 9074|     🔴 18s|
+|❌ Xfce 4.18 22.12          |❌ X11 Xfwm4 4.18.0 22.12              |❌ LightDM 1.30.0 19.05                             |Linux Lite 7.0 24.06            |          🔴 848|     🟠 0.89|       ❌ 11842|     🔴 29s|
+|❌ Xfce 4.18 22.12          |❌ X11 Xfwm4 4.18.0 22.12              |❌ LightDM 1.26.0 18.03                             |MX 23.3 24.05                   |          🔴 876|     🟠 0.61|       🔴 8734|     🔴 19s|
+|❌ Mate 1.26.0 21.08        |❌ X11 Metacity Marco 1.26.1 22.11     |❌ LightDM 1.26.0 18.03                             |Parrot OS 6.1 Home 24.06        |          🔴 923|     🟡 0.47|       🔴 7054|     🔴 20s|
+|🟥 Plasma 5.27.5 23.05     |🟥 X11 KWin 5.27.5 23.05              |❌ SDDM 0.19.0 20.11                                |Q4OS Desktop 5.4 23.11          |          🔴 963|     🔴 1.50|       🔴 7538|     🔴 29s|
+|🟥 Gnome 42.9 23.03        |🟥 X11 Mutter 42.9 23.03              |❌ GDM 42.0 22.03                                   |❌ Pop!_OS LTS 22.04             |          🔴 990|      ❌ 2.51|       🔴 7219|     🔴 26s|
 |🟧 Plasma 6.0.5 24.05      |🟧 X11 KWin 6.0.5-2 24.05             |SDDM 0.21.0-4 24.02                                |Manjaro 24.0 24.05              |          ❌ 1011|     🔴 1.56|       🔴 7552|     🔴 26s|
-|🟧 Gnome 46.0 24.03        |🟧 Wayland Mutter 46.0 24.03          |🟧 GDM 46.0 24.03                                  |Ubuntu 24.04 LTS                |          ❌ 1038|     🟠 0.74|       🔴 9154|     🔴 19s|
-|🟥 Gnome 40.10 22.03       |🟥 Wayland Mutter 40.9 22.02          |🟥 GDM 40.1 21.07                                  |AlmaLinux 9.4 24.05             |          ❌ 1080|     🟠 0.60|          4407|     🔴 18s|
+|🟧 Gnome 46.0 24.03        |🟧 Wayland Mutter 46.0 24.03          |🟧 GDM 46.0 24.03                                  |Ubuntu LTS 24.04                |          ❌ 1038|     🟠 0.74|       🔴 9154|     🔴 19s|
+|❌ Gnome 40.10 22.03        |❌ Wayland Mutter 40.9 22.02           |❌ GDM 40.1 21.07                                   |AlmaLinux 9.4 24.05             |          ❌ 1080|     🟠 0.60|          4407|     🔴 18s|
 |🟧 Plasma 6.0.5 24.05      |🟧 Wayland KWin 6.0.5-2               |SDDM 0.21.0-4 24.02                                |EndeavourOS Gemini 24.04        |          ❌ 1102|     🔴 1.47|       🔴 6323|     🔴 23s|
-|🟥 Gnome 40.10 22.03       |🟥 Wayland Mutter 40.9 22.02          |🟥 GDM 40.1 21.07                                  |Rocky Linux 9.4 24.05           |          ❌ 1143|     🟠 0.83|          4532|     🔴 17s|
+|❌ Gnome 40.10 22.03        |❌ Wayland Mutter 40.9 22.02           |❌ GDM 40.1 21.07                                   |Rocky Linux 9.4 24.05           |          ❌ 1143|     🟠 0.83|          4532|     🔴 17s|
 |Gnome 46.2 24.05           |Wayland Mutter 46.2 24.05             |GDM 46.2 24.05                                     |Fedora Workstation 40 1.14 24.04|          ❌ 1285|      ❌ 2.63|          3866|     🔴 24s|
 |🟧 Plasma 6.0.5 24.05      |🟧 X11 KWin 6.0.5-1.1 24.05           |SDDM 0.21.0-3.1 24.02                              |openSUSE Tumbleweed 24.06       |          ❌ 1400|     🟠 0.99|       🟠 6103|     🔴 22s|
 |🟧 Plasma 6.1.0 24.06      |🟧 Wayland KWin 6.1.0 24.06           |SDDM 0.21.0-4 24.02                                |Bazzite 40 3.0.1 24.05          |          ❌ 1635|     ❌ 15.04|       ❌ 17566|      ❌ 93s|
-|🟧 MATE 1.28.0 24.02       |X11 Metacity Marco 1.28.1 24.02       |🟥 LightDM 1.30.0 19.05                            |OpenIndiana Hipster 24.04       |          ❌ 1832|      ❌ 2.17|       🔴 7071|      ❌ 36s|
+|🟧 MATE 1.28.0 24.02       |X11 Metacity Marco 1.28.1 24.02       |❌ LightDM 1.30.0 19.05                             |OpenIndiana Hipster 24.04       |          ❌ 1832|      ❌ 2.17|       🔴 7071|      ❌ 36s|
 |Windows Shell              |Desktop Window Manager                |                                                   |❌ Windows 11 21.10              |          ❌ 2916|            |       ❌ 25720|      ❌ 57s|
 |Aqua                       |Quartz Compositor                     |                                                   |❌ MacOS 13.6.7 22.10            |          ❌ 3252|    ❌ 126.37|       🔴 8912|      ❌ 47s|
 
@@ -97,6 +97,7 @@ The following tests were conducted on a system with the following specifications
 - \* Non-default option of distribution.
 - 🟧 Newer version available.
 - 🟥 More than 1 years since release.
+- ❌ More than 2 years since release.
 
 [Be Our Hero with a Donation](https://liberapay.com/craft/donate) 
 
