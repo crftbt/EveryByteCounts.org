@@ -97,7 +97,7 @@ The following tests were conducted on a system with the following specifications
 **Legend:**
 - \* Non-default option of distribution.
 - 🟧 Newer version available.
-- 🟥 More than 1 years since release.
+- 🟥 More than 1 year since release.
 - ❌ More than 2 years since release.
 
 [Be Our Hero with a Donation](https://liberapay.com/craft/donate) 
