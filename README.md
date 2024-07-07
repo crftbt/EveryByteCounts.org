@@ -123,14 +123,14 @@ What options are there to monetize and provide the results of this research in a
 
 Are you hiring or seeking a consultant? Send an electronic mail to craft at no third party recruiters period com :)
 
-[Alpine Linux Repository]: https://gitlab.alpinelinux.org/alpine/aports/-/tags
 [Alpine Linux]: https://en.wikipedia.org/wiki/Alpine_Linux
-[Labwc Repository]: https://github.com/labwc/labwc/releases
+[Alpine Linux Repository]: https://gitlab.alpinelinux.org/alpine/aports/-/tags
 [Labwc]: https://github.com/labwc/labwc
-[postmarketOS Repository]: https://gitlab.com/postmarketOS/pmaports/-/branches?state=all&sort=updated_desc&search=v2
+[Labwc Repository]: https://github.com/labwc/labwc/releases
 [postmarketOS]: https://en.wikipedia.org/wiki/PostmarketOS
-[Sway Repository]: https://github.com/swaywm/sway/releases
+[postmarketOS Repository]: https://gitlab.com/postmarketOS/pmaports/-/branches?state=all&sort=updated_desc&search=v2
 [Sway]: https://en.wikipedia.org/wiki/Sway_(window_manager)
+[Sway Repository]: https://github.com/swaywm/sway/releases
 [Wayland]: https://en.wikipedia.org/wiki/Wayland_(protocol)
-[Weston Repository]: https://gitlab.freedesktop.org/wayland/weston/-/releases
 [Weston]: https://en.wikipedia.org/wiki/Wayland_(protocol)#Weston
+[Weston Repository]: https://gitlab.freedesktop.org/wayland/weston/-/releases
