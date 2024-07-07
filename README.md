@@ -123,14 +123,14 @@ What options are there to monetize and provide the results of this research in a
 
 Are you hiring or seeking a consultant? Send an electronic mail to craft at no third party recruiters period com :)
 
-[postmarketOS]: https://en.wikipedia.org/wiki/PostmarketOS
-[postmarketOS Repository]: https://gitlab.com/postmarketOS/pmaports/-/branches?state=all&sort=updated_desc&search=v2
-[Alpine Linux]: https://en.wikipedia.org/wiki/Alpine_Linux
 [Alpine Linux Repository]: https://gitlab.alpinelinux.org/alpine/aports/-/tags
-[Wayland]: https://en.wikipedia.org/wiki/Wayland_(protocol)
-[Labwc]: https://github.com/labwc/labwc
+[Alpine Linux]: https://en.wikipedia.org/wiki/Alpine_Linux
 [Labwc Repository]: https://github.com/labwc/labwc/releases
-[Sway]: https://en.wikipedia.org/wiki/Sway_(window_manager)
+[Labwc]: https://github.com/labwc/labwc
+[postmarketOS Repository]: https://gitlab.com/postmarketOS/pmaports/-/branches?state=all&sort=updated_desc&search=v2
+[postmarketOS]: https://en.wikipedia.org/wiki/PostmarketOS
 [Sway Repository]: https://github.com/swaywm/sway/releases
-[Weston]: https://en.wikipedia.org/wiki/Wayland_(protocol)#Weston
+[Sway]: https://en.wikipedia.org/wiki/Sway_(window_manager)
+[Wayland]: https://en.wikipedia.org/wiki/Wayland_(protocol)
 [Weston Repository]: https://gitlab.freedesktop.org/wayland/weston/-/releases
+[Weston]: https://en.wikipedia.org/wiki/Wayland_(protocol)#Weston
