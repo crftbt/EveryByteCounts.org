@@ -128,7 +128,7 @@ Are you hiring or seeking a consultant? Send an electronic mail to craft at no t
 [Labwc]: https://github.com/labwc/labwc
 [Labwc Repository]: https://github.com/labwc/labwc/releases
 [postmarketOS]: https://en.wikipedia.org/wiki/PostmarketOS
-[postmarketOS Repository]: https://gitlab.com/postmarketOS/pmaports/-/branches?state=all&sort=updated_desc&search=v2
+[postmarketOS Repository]: https://gitlab.com/postmarketOS/pmaports/-/branches?state=all&sort=updated_desc&search=%5Ev2
 [Sway]: https://en.wikipedia.org/wiki/Sway_(window_manager)
 [Sway Repository]: https://github.com/swaywm/sway/releases
 [Wayland]: https://en.wikipedia.org/wiki/Wayland_(protocol)
