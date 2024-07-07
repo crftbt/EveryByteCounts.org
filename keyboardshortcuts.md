@@ -13,4 +13,4 @@
 |StumpWM       |Ctrl + T, Ctrl + C   |
 |Sway          |Super + Enter        |
 |Window Maker  |Right Click          |
-|xmonad        |Alt + Shift + Enter  |
+|xmonad        |{:.table-danger}Alt + Shift + Enter  |
