@@ -1,3 +1,7 @@
+---
+datatable: true
+---
+
 ## Desktop Operating System Performance Comparison
 
 This document provides a comparative analysis of various desktop environments, window managers, and display managers across different operating systems. It presents quantitative metrics such as memory usage, load average, disk usage, and reboot time to help make informed decisions when choosing a desktop environment.
@@ -31,6 +35,8 @@ The following tests were conducted on a system with the following specifications
 - **Storage**: SK Hynix Platinum P41 M.2-2280 PCIe 4.0 X4 NVME SSD
 
 ## Desktop Environment Comparison
+
+<div class="datatable-begin"></div>
 
 |Desktop Environment        |Window Manager                        |Display Manager                 |Operating System                |Memory Usage (M)|Load Average|Disk Usage (M)|Reboot Time|
 |---------------------------|--------------------------------------|--------------------------------|--------------------------------|---------------:|-----------:|-------------:|----------:|
@@ -93,6 +99,8 @@ The following tests were conducted on a system with the following specifications
 |🟧 MATE 1.28.0 24.02       |X11 Metacity Marco 1.28.1 24.02       |❌ LightDM 1.30.0 19.05          |OpenIndiana Hipster 24.04       |          ❌ 1832|      ❌ 2.17|       🔴 7071|      ❌ 36s|
 |Windows Shell              |Desktop Window Manager                |                                |❌ Windows 11 21.10              |          ❌ 2916|            |       ❌ 25720|      ❌ 57s|
 |Aqua                       |Quartz Compositor                     |                                |❌ MacOS 13.6.7 22.10            |          ❌ 3252|    ❌ 126.37|       🔴 8912|      ❌ 47s|
+
+<div class="datatable-begin"></div>
 
 **Legend:**
 - \* Non-default option of distribution.
