@@ -1,30 +1,29 @@
-## Desktop Operating System Performance Comparison
+# Desktop Operating System Performance Comparison
 
-This document provides a comparative analysis of various desktop environments, window managers, and display managers across different operating systems. It presents quantitative metrics such as memory usage, load average, disk usage, and reboot time to help make informed decisions when choosing a desktop environment.
+This document provides a comparative analysis of various desktop environments, window managers, and display managers across different operating systems. It presents quantitative metrics to help make informed decisions when choosing a desktop environment.
 
-### What is a Desktop Environment?
+## Base Services
 
-A Desktop Environment is a suite of applications bundled together with a Window Manager to provide a cohesive graphical user interface (GUI) experience. It typically includes an application launcher, panel, file manager, and other utilities.
+### Display Manager
+The graphical login screen that allows users to authenticate and launch a specific desktop environment or window manager.
 
-### What is a Window Manager?
+### Window Manager
+Responsible for managing the placement and appearance of graphical application windows on the screen. It handles tasks such as opening, closing, resizing, and moving windows, as well as providing keyboard shortcuts and other window management features.
 
-A Window Manager is responsible for managing the placement and appearance of graphical application windows on the screen. It handles tasks such as opening, closing, resizing, and moving windows, as well as providing keyboard shortcuts and other window management features.
-
-### What is a Display Manager?
-
-A Display Manager is the graphical login screen that allows users to authenticate and launch a specific desktop environment or window manager.
+### Desktop Environment
+A suite of applications bundled with a Window Manager to provide a cohesive graphical user interface (GUI) experience. It typically includes an application launcher, panel, file manager, and other utilities.
 
 ## Metrics Explained
 
 - **Timing**: All metrics are measured 10 seconds after the environment has started.
-- **Memory Usage**: The amount of RAM consumed by all currently running software.
-- **Load Average**: A measure of the system's CPU load, averaged over a specific time period. A lower value indicates better performance.
-- **Disk Usage**: The amount of disk space occupied by the installed software.
-- **Reboot Time**: The time taken for the system to reboot from an open terminal, to an open terminal.
+- **Memory Usage**: RAM consumed by all currently running software.
+- **Load Average**: Measure of the system's CPU load, averaged over a specific time period. Lower values indicate better performance.
+- **Disk Usage**: Disk space occupied by the installed software.
+- **Reboot Time**: Time taken for the system to reboot from an open terminal to an open terminal.
 
 ## Hardware Specifications
 
-The following tests were conducted on a system with the following specifications:
+Tests were conducted on a system with the following specifications:
 
 - **CPU**: AMD 6800H 1vCPU
 - **RAM**: 4GB LPDDR5
@@ -95,33 +94,39 @@ The following tests were conducted on a system with the following specifications
 |Aqua                       |Quartz Compositor                                                       |                                |❌ MacOS 13.6.7 22.10                                              |          ❌ 3252|    ❌ 126.37|       🔴 8912|      ❌ 47s|
 
 **Legend:**
-- 🟪 Non-default option of distribution.
-- 🟧 Newer version available.
-- 🟥 More than 1 year since release.
-- ❌ More than 2 years since release.
+- 🟪 Non-default option of distribution
+- 🟧 Newer version available
+- 🟥 More than 1 year since release
+- ❌ More than 2 years since release
 
-[Be Our Hero with a Donation](https://liberapay.com/craft/donate) 
+## Additional Information
+
+### Multiple Terminals Without a Window Manager
+It's possible to show multiple terminals on a screen without a Window Manager using a Terminal Multiplexer like tmux or screen.
+
+### Installation Instructions
+- [Labwc with SDDM on Alpine](/alpine/labwc-sddm.md)
+- [Sway with greetd + GTKGreet on Alpine](/alpine/sway-greetd-gtkgreet.md)
+- [Sway with SDDM on Alpine](/alpine/sway-sddm.md)
+- [Weston with SDDM on Alpine](/alpine/weston-sddm.md)
+
+### Related Resources
+- [Window Manager Keyboard Shortcuts](/keyboardshortcuts.md)
+- [Open Source Hardware and Software Comparison List](https://fullstackopensource.com/)
+- [Eylenburg's Operating System Comparison](https://eylenburg.github.io/os_comparison.htm)
+- [Eylenburg's Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
+
+## Support This Project
+
+If you find this research valuable, consider supporting our work:
+
+[Donate via Liberapay](https://liberapay.com/craft/donate)
 
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-#### Is it possible to show multiple terminals on a screen without a Window Manager?
-Yes, with a Terminal Multiplexer like termux or screen.
+## Get Involved
 
-## Install Instructions
-* [Labwc with SDDM on Alpine](/alpine/labwc-sddm.md)
-* [Sway with greetd + GTKGreet on Alpine](/alpine/sway-greetd-gtkgreet.md)
-* [Sway with SDDM on Alpine](/alpine/sway-sddm.md)
-* [Weston with SDDM on Alpine](/alpine/weston-sddm.md)
-
-## [Window Manager Keyboard Shortcuts](/keyboardshortcuts.md)
-## [Open Source Hardware and Software Comparison List](https://fullstackopensource.com/)
-## [Eylenburg's Operating System Comparison](https://eylenburg.github.io/os_comparison.htm)
-## [Eylenburg's Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
-
-#### Note
-What options are there to monetize and provide the results of this research in a sustainable way? 
-
-Are you hiring or seeking a consultant? Send an electronic mail to craft at no third party recruiters period com :)
+We're exploring options to monetize and provide the results of this research sustainably. If you're hiring or seeking a consultant, please contact us at craft@nothirdpartyrecruiters.com.
 
 [Alpine Linux]: https://en.wikipedia.org/wiki/Alpine_Linux
 [Alpine Linux Repository]: https://gitlab.alpinelinux.org/alpine/aports/-/tags
