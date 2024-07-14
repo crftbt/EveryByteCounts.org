@@ -117,6 +117,8 @@ Yes, with a Terminal Multiplexer like termux or screen.
 
 
 ## [FullStackOpenSource.com](https://fullstackopensource.com/)
+## [Eylenburg's Operating System Comparison](https://eylenburg.github.io/os_comparison.htm)
+## [Eylenburg's Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
 
 #### Note
 What options are there to monetize and provide the results of this research in a sustainable way? 
