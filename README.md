@@ -102,12 +102,10 @@ The following tests were conducted on a system with the following specifications
 
 [Be Our Hero with a Donation](https://liberapay.com/craft/donate) 
 
-#### Is it possible to show multiple terminals on a screen without a Window Manager?
-Yes, with a Terminal Multiplexer like termux or screen.
-
 <noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-### [Window Manager Keyboard Shortcuts](/keyboardshortcuts.md)
+#### Is it possible to show multiple terminals on a screen without a Window Manager?
+Yes, with a Terminal Multiplexer like termux or screen.
 
 ## Install Instructions
 * [Labwc with SDDM on Alpine](/alpine/labwc-sddm.md)
@@ -115,8 +113,8 @@ Yes, with a Terminal Multiplexer like termux or screen.
 * [Sway with SDDM on Alpine](/alpine/sway-sddm.md)
 * [Weston with SDDM on Alpine](/alpine/weston-sddm.md)
 
-
-## [FullStackOpenSource.com](https://fullstackopensource.com/)
+## [Window Manager Keyboard Shortcuts](/keyboardshortcuts.md)
+## [Open Source Hardware and Software Comparison List](https://fullstackopensource.com/)
 ## [Eylenburg's Operating System Comparison](https://eylenburg.github.io/os_comparison.htm)
 ## [Eylenburg's Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
 
