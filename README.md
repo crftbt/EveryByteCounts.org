@@ -116,7 +116,7 @@ It's possible to show multiple terminals on a screen without a Window Manager us
 - [Eylenburg's Operating System Comparison](https://eylenburg.github.io/os_comparison.htm)
 - [Eylenburg's Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
 
-## Support This Project
+## Help Support This Project :)
 
 If you find this research valuable, consider supporting our work:
 
