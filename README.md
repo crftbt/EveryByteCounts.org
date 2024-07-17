@@ -104,11 +104,12 @@ Tests were conducted on a system with the following specifications:
 ### Multiple Terminals Without a Window Manager
 It's possible to show multiple terminals on a screen without a Window Manager using a Terminal Multiplexer like tmux or screen.
 
-### Installation Instructions
-- [Labwc with SDDM on Alpine](/alpine/labwc-sddm.md)
-- [Sway with greetd + GTKGreet on Alpine](/alpine/sway-greetd-gtkgreet.md)
-- [Sway with SDDM on Alpine](/alpine/sway-sddm.md)
-- [Weston with SDDM on Alpine](/alpine/weston-sddm.md)
+### Instructions
+- [Improve Alpine Linux Reboot Time](/alpine/boot.md)
+- [Install Labwc with SDDM on Alpine](/alpine/labwc-sddm.md)
+- [Install Sway with greetd + GTKGreet on Alpine](/alpine/sway-greetd-gtkgreet.md)
+- [Install Sway with SDDM on Alpine](/alpine/sway-sddm.md)
+- [Install Weston with SDDM on Alpine](/alpine/weston-sddm.md)
 
 ### Related Resources
 - [Window Manager Keyboard Shortcuts](/keyboardshortcuts.md)
