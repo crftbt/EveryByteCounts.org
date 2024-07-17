@@ -120,9 +120,9 @@ It's possible to show multiple terminals on a screen without a Window Manager us
 
 If you find this research valuable, consider supporting our work:
 
-[Donate via Liberapay](https://liberapay.com/craft/donate)
+[Be Our Hero with a Donation via Liberapay](https://liberapay.com/craft/donate)
 
-<noscript><a href="https://liberapay.com/Craft/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://liberapay.com/Craft/donate"><img alt="Be Our Hero with a Donation via Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ## Get Involved
 
