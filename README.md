@@ -2,7 +2,7 @@
 
 This document provides a comparative analysis of various desktop environments, window managers, and display managers across different operating systems. It presents quantitative metrics to help make informed decisions when choosing a desktop environment.
 
-## Base Services
+## Desktop Services
 
 ### Display Manager
 The graphical login screen that allows users to authenticate and launch a specific desktop environment or window manager.
