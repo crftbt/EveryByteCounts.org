@@ -121,7 +121,7 @@ It's possible to show multiple terminals on a screen without a Window Manager us
 
 ## Help Support This Project :)
 
-If you find this research valuable, consider supporting our work:
+If you find this research valuable, support our work:
 
 [Be Our Hero with a Donation via Liberapay](https://liberapay.com/craft/donate)
 
