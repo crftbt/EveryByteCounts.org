@@ -1,11 +1,11 @@
 # Desktop Operating System Performance Comparison
 
-This document provides a comparative analysis of various desktop environments, window managers, and display managers across different operating systems. It presents quantitative metrics to help make informed decisions when choosing a desktop environment.
+This is a comparative analysis of various desktop environments, window managers, and display managers across different operating systems. It presents quantitative metrics to help make informed decisions when choosing a desktop environment.
 
 ## Desktop Services
 
 ### Display Manager
-The graphical login screen that allows users to authenticate and launch a specific desktop environment or window manager.
+The graphical login screen that allows users to authenticate and launch a specific window manager or desktop environment.
 
 ### Window Manager
 Responsible for managing the placement and appearance of graphical application windows on the screen. It handles tasks such as opening, closing, resizing, and moving windows, as well as providing keyboard shortcuts and other window management features.
