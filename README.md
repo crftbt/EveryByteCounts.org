@@ -104,6 +104,9 @@ Tests were conducted on a system with the following specifications:
 
 ## Additional Information
 
+### Request an Operating System Benchmark
+Request a benchmark of an Operating System by submitting a new [Issue](https://github.com/crftbt/EveryByteCounts.org/issues).
+
 ### Multiple Terminals Without a Window Manager
 It's possible to show multiple terminals on a screen without a Window Manager using a Terminal Multiplexer like tmux or screen.
 
