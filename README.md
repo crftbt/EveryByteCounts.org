@@ -26,7 +26,7 @@ A suite of applications bundled with a Window Manager to provide a cohesive grap
 Tests were conducted on a system with the following specifications:
 
 - **CPU**: AMD 6800H 1vCPU
-- **RAM**: 4GB LPDDR5
+- **RAM**: 8GB LPDDR5
 - **Storage**: SK Hynix Platinum P41 M.2-2280 PCIe 4.0 X4 NVME SSD
 
 ## Desktop Environment Comparison
