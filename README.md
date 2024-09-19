@@ -124,6 +124,7 @@ It's possible to show multiple terminals on a screen without a Window Manager us
 - [Eylenburg's Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
 
 ### Alpine Linux VPS Hosting Providers
+
 | Provider | DDoS Protection | Pricing | Note |
 | - | - | - | - |
 | Vultr | $10 extra fee per VPS | $2.50 | |
