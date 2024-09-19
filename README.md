@@ -127,8 +127,8 @@ It's possible to show multiple terminals on a screen without a Window Manager us
 
 | Provider | DDoS Protection | Pricing | Note |
 | - | - | - | - |
-| Vultr | $10 extra fee per VPS | $2.50 | |
-| Linode (Akamai) | Included | $5 | [Litigation](https://en.wikipedia.org/wiki/Akamai_Technologies#Litigation) [Controversies](https://en.wikipedia.org/wiki/Akamai_Technologies#Controversies) |
+| Vultr | ❌ $10 extra fee per VPS | $2.50 | |
+| Linode (Akamai) | Included | $5 | ❌ [Litigation](https://en.wikipedia.org/wiki/Akamai_Technologies#Litigation) ❌ [Controversies](https://en.wikipedia.org/wiki/Akamai_Technologies#Controversies) |
 
 ## Help Support This Project :)
 
