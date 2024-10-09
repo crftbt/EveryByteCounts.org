@@ -52,10 +52,8 @@ Tests were conducted on a system with the following specifications:
 |-                          |🟧 [Wayland][Wayland] [Weston][Weston] [12.0.4 24.04][Weston Repository]|SDDM 0.21.0 24.02                |[Alpine Linux][Alpine Linux] [3.20 24.05][Alpine Linux Repository]|          🟢 155|     ✔️ 0.00|        🟢 744|      🔵 9s|
 |-                          |X11 FVWM3 1.1.0 24.03                                                   |SDDM 0.21.0 24.02                |NixOS 24.05                                                       |          🟢 169|        0.27|       🟡 3394|      🔵 8s|
 |-                          |🟧 X11 Qtile 0.25.0 24.04                                               |SDDM 0.21.0 24.02                |NixOS 24.05                                                       |          🟢 179|        0.20|       🟡 3479|      🟢 7s|
-|-                          |-                                                                       |-                                |🟥 [Redox][Redox] Server [0.8.0 22.11][Redox Repository]          |          🟢 181|     ✔️ 0.00|        ✔️ 111|      ✔️ 4s|
 |-                          |X11 Enlightenment 0.26.0 23.12                                          |❌ LightDM 1.32.0 22.07           |NixOS 24.05                                                       |          🔵 211|        0.20|       🔴 5671|     🟡 13s|
 |🟧 LXQt 1.4.0 23.11        |🟧 🟪 X11 KWin 5.27.10 23.12                                            |SDDM 0.21.0 24.02                |[Alpine Linux][Alpine Linux] [3.20 24.05][Alpine Linux Repository]|          🔵 243|     ✔️ 0.00|       🔵 1122|        10s|
-|Orbital                    |Orbital                                                                 |Orblogin                         |🟥 [Redox][Redox] Desktop [0.8.0 22.11][Redox Repository]         |          🔵 251|     ✔️ 0.00|        ✔️ 184|      🔵 9s|
 |-                          |-                                                                       |-                                |FreeBSD 14.1 24.05                                                |          🔵 258|      ❌ 5.62|        🟢 985|     🔴 22s|
 |-                          |-                                                                       |-                                |Debian 12.6 24.06                                                 |          🔵 280|     ✔️ 0.00|       🔵 1853|        11s|
 |❌ KDE 4.2.2 09.04          |❌ X11 KWin 4.2.2 09.04                                                  |❌ KDM 4.2.2 09.04                |❌ Hannah Montana Linux v2 09.06                                   |             337|     ✔️ 0.00|          2534|     🔴 23s|
@@ -149,8 +147,6 @@ We're exploring options to monetize and provide the results of this research sus
 [Labwc Repository]: https://github.com/labwc/labwc/releases
 [postmarketOS]: https://en.wikipedia.org/wiki/PostmarketOS
 [postmarketOS Repository]: https://gitlab.com/postmarketOS/pmaports/-/branches?state=all&sort=updated_desc&search=%5Ev2
-[Redox]: https://en.wikipedia.org/wiki/Redox_(operating_system)
-[Redox Repository]: https://gitlab.redox-os.org/redox-os/redox/-/releases
 [Sway]: https://en.wikipedia.org/wiki/Sway_(window_manager)
 [Sway Repository]: https://github.com/swaywm/sway/releases
 [Wayland]: https://en.wikipedia.org/wiki/Wayland_(protocol)
