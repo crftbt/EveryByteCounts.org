@@ -103,6 +103,14 @@ Tests were conducted on a system with the following specifications:
 ### Request an Operating System Benchmark
 Request a benchmark of an Operating System by submitting a new [Issue](https://github.com/crftbt/EveryByteCounts.org/issues).
 
+## Help Support This Project :)
+
+If you find this research valuable, support our work:
+
+[Be Our Hero with a Donation via Liberapay](https://liberapay.com/craft/donate)
+
+<noscript><a href="https://liberapay.com/Craft/donate"><img alt="Be Our Hero with a Donation via Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 ### Multiple Terminals Without a Window Manager
 It's possible to show multiple terminals on a screen without a Window Manager using a Terminal Multiplexer like tmux or screen.
 
@@ -125,14 +133,6 @@ It's possible to show multiple terminals on a screen without a Window Manager us
 | - | - | - | - |
 | Vultr | ❌ $10 extra fee per VPS | $2.50 | |
 | Linode (Akamai) | Included | $5 | ❌ [Litigation](https://en.wikipedia.org/wiki/Akamai_Technologies#Litigation) ❌ [Controversies](https://en.wikipedia.org/wiki/Akamai_Technologies#Controversies) |
-
-## Help Support This Project :)
-
-If you find this research valuable, support our work:
-
-[Be Our Hero with a Donation via Liberapay](https://liberapay.com/craft/donate)
-
-<noscript><a href="https://liberapay.com/Craft/donate"><img alt="Be Our Hero with a Donation via Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ## Get Involved
 
