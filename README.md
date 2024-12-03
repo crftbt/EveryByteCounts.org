@@ -136,7 +136,7 @@ It's possible to show multiple terminals on a screen without a Window Manager us
 
 ## Get Involved
 
-We're exploring options to monetize and provide the results of this research sustainably. If you're hiring or seeking a consultant, please contact us at craft@nothirdpartyrecruiters.com.
+We're exploring options to monetize and provide the results of this research sustainably. If you're hiring or seeking a consultant, please contact us by electronic message at craft at nothirdpartyrecruiters dotcom.
 
 [Alpine Linux]: https://en.wikipedia.org/wiki/Alpine_Linux
 [Alpine Linux Repository]: https://gitlab.alpinelinux.org/alpine/aports/-/tags
